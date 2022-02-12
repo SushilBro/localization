@@ -1,0 +1,2418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- **************************District 1**************************** -->
+    <record id="res_country_rural_municipality_Bhojpur_Aamchowk" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Aamchowk Rural Municipality</field>
+            <field name="code">1</field>
+    </record>
+    <record id="res_country_rural_municipality_Bhojpur_Arun" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Arun Rural Municipality</field>
+            <field name="code">1A</field>
+    </record>
+
+    <record id="res_country_rural_municipality_Bhojpur_Hatuwagadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Hatuwagadhi Rural Municipality</field>
+            <field name="code">1B</field>
+    </record>
+    <record id="res_country_rural_municipality_Bhojpur_Pauwadungma" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Pauwadungma Rural Municipality</field>
+            <field name="code">1C</field>
+    </record>
+    <record id="res_country_rural_municipality_Bhojpur_Ramprasad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Ramprasad Rai Rural Municipality</field>
+            <field name="code">1D</field>
+    </record>
+    <record id="res_country_rural_municipality_Bhojpur_Salpasilichho" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Salpasilichho Rural Municipality</field>
+            <field name="code">1E</field>
+    </record>
+    <record id="res_country_rural_municipality_Bhojpur_Temkemaiyung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhojpur"/>
+            <field name="name">Temkemaiyung Rural Municipality</field>
+            <field name="code">1F</field>
+    </record>
+
+    <!-- **************************District 2**************************** -->
+    <record id="res_country_rural_municipality_Dhankuta_Chaubise" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhankuta"/>
+            <field name="name">Chaubise Rural Municipality</field>
+            <field name="code">2</field>
+    </record>
+    <record id="res_country_rural_municipality_Dhankuta_Chhathar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhankuta"/>
+            <field name="name">Chhathar Jorpati Rural Municipality</field>
+            <field name="code">2A</field>
+    </record>
+    <record id="res_country_rural_municipality_Dhankuta_Sangurigadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhankuta"/>
+            <field name="name">Sangurigadhi Rural Municipality</field>
+            <field name="code">2B</field>
+    </record>
+    <record id="res_country_rural_municipality_Dhankuta_Shahidbhumi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhankuta"/>
+            <field name="name">Shahidbhumi Rural Municipality</field>
+            <field name="code">2C</field>
+    </record>
+
+    <!-- **************************District 3**************************** -->
+    <record id="res_country_rural_municipality_Ilam_Chulachuli" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ilam"/>
+            <field name="name">Chulachuli Rural Municipality</field>
+            <field name="code">3</field>
+    </record>
+    <record id="res_country_rural_municipality_Ilam_Fakphokthum" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ilam"/>
+            <field name="name">Fakphokthum Rural Municipality</field>
+            <field name="code">3A</field>
+    </record>
+    <record id="res_country_rural_municipality_Ilam_Maijogmai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ilam"/>
+            <field name="name">Maijogmai Rural Municipality</field>
+            <field name="code">3B</field>
+    </record>
+    <record id="res_country_rural_municipality_Ilam_Mangsebung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ilam"/>
+            <field name="name">Mangsebung Rural Municipality</field>
+            <field name="code">3C</field>
+    </record>
+    <record id="res_country_rural_municipality_Ilam_Rong" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ilam"/>
+            <field name="name">Rong Rural Municipality</field>
+            <field name="code">3D</field>
+    </record>
+    <record id="res_country_rural_municipality_Ilam_Sandakpur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ilam"/>
+            <field name="name">Sandakpur Rural Municipality</field>
+            <field name="code">3E</field>
+    </record>
+    <!-- **************************District 4**************************** -->
+    <record id="res_country_rural_municipality_Jhapa_Barhadashi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Barhadashi Rural Municipality</field>
+            <field name="code">4</field>
+    </record>
+    <record id="res_country_rural_municipality_Jhapa_Buddhashanti" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Buddhashanti Rural Municipality</field>
+            <field name="code">4A</field>
+    </record>
+    <record id="res_country_rural_municipality_Jhapa_Gauriganj" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Gauriganj Rural Municipality</field>
+            <field name="code">4B</field>
+    </record>
+    <record id="res_country_rural_municipality_Jhapa_Haldibari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Haldibari Rural Municipality</field>
+            <field name="code">4C</field>
+    </record>
+    <record id="res_country_rural_municipality_Jhapa_Jhapa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Jhapa Rural Municipality</field>
+            <field name="code">4D</field>
+    </record>
+    <record id="res_country_rural_municipality_Jhapa_Kachankawal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Kachankawal Rural Municipality</field>
+            <field name="code">4E</field>
+    </record>
+    <record id="res_country_rural_municipality_Jhapa_Kamal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jhapa"/>
+            <field name="name">Kamal Rural Municipality</field>
+            <field name="code">4F</field>
+    </record>
+    <!-- **************************District 5**************************** -->
+    <record id="res_country_rural_municipality_Khotang_Ainselukhark" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Ainselukhark Rural Municipality</field>
+            <field name="code">5</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Barahapokhari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Barahapokhari Rural Municipality</field>
+            <field name="code">5A</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Diprung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Diprung Chuichumma Rural Municipality</field>
+            <field name="code">5B</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Jantedhunga" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Jantedhunga Rural Municipality</field>
+            <field name="code">5C</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Kepilasagadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Kepilasagadhi Rural Municipality</field>
+            <field name="code">5D</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Khotehang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Khotehang Rural Municipality</field>
+            <field name="code">5E</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Rawa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Rawa Besi Rural Municipality</field>
+            <field name="code">5F</field>
+    </record>
+    <record id="res_country_rural_municipality_Khotang_Sakela" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Khotang"/>
+            <field name="name">Sakela Rural Municipality</field>
+            <field name="code">5G</field>
+    </record>
+
+    <!-- **************************District 6**************************** -->
+    <record id="res_country_rural_municipality_Morang_Budhiganga" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Budhiganga Rural Municipality</field>
+            <field name="code">6</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Dhanpalthan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Dhanpalthan Rural Municipality</field>
+            <field name="code">6A</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Miklajung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Miklajung Rural Municipality</field>
+            <field name="code">6B</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Gramthan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Gramthan Rural Municipality</field>
+            <field name="code">6C</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Jahada" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Jahada Rural Municipality</field>
+            <field name="code">6D</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Kanepokhari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Kanepokhari Rural Municipality</field>
+            <field name="code">6E</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Katahari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Katahari Rural Municipality</field>
+            <field name="code">6F</field>
+    </record>
+    <record id="res_country_rural_municipality_Morang_Kerabari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Morang"/>
+            <field name="name">Kerabari Rural Municipality</field>
+            <field name="code">6G</field>
+    </record>
+    <!-- **************************District 7**************************** -->
+    <record id="res_country_rural_municipality_Okhaldhunga_Champadevi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Champadevi Rural Municipality</field>
+            <field name="code">7</field>
+    </record>
+    <record id="res_country_rural_municipality_Okhaldhunga_Chisankhugadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Chisankhugadhi Rural Municipality</field>
+            <field name="code">7A</field>
+    </record>
+    <record id="res_country_rural_municipality_Okhaldhunga_Khijidemba" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Khijidemba Rural Municipality</field>
+            <field name="code">7B</field>
+    </record>
+    <record id="res_country_rural_municipality_Okhaldhunga_Likhu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Likhu Rural Municipality</field>
+            <field name="code">7C</field>
+    </record>
+    <record id="res_country_rural_municipality_Okhaldhunga_Manebhanjyang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Manebhanjyang Rural Municipality</field>
+            <field name="code">7D</field>
+    </record>
+    <record id="res_country_rural_municipality_Okhaldhunga_Molung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Molung Rural Municipality</field>
+            <field name="code">7E</field>
+    </record>
+    <record id="res_country_rural_municipality_Okhaldhunga_Sunkoshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+            <field name="name">Sunkoshi Rural Municipality</field>
+            <field name="code">7F</field>
+    </record>
+    <!-- **************************District 8**************************** -->
+    <record id="res_country_rural_municipality_Panchthar_Falelung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Falelung Rural Municipality</field>
+            <field name="code">8</field>
+    </record>
+    <record id="res_country_rural_municipality_Panchthar_Falgunanda" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Falgunanda Rural Municipality</field>
+            <field name="code">8A</field>
+    </record>
+    <record id="res_country_rural_municipality_Panchthar_Hilihang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Hilihang Rural Municipality</field>
+            <field name="code">8B</field>
+    </record>
+    <record id="res_country_rural_municipality_Panchthar_Kummayak" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Kummayak Rural Municipality</field>
+            <field name="code">8C</field>
+    </record>
+    <record id="res_country_rural_municipality_Panchthar_Miklajung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Miklajung Rural Municipality</field>
+            <field name="code">8D</field>
+    </record>
+    <record id="res_country_rural_municipality_Panchthar_Tumbewa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Tumbewa Rural Municipality</field>
+            <field name="code">8E</field>
+    </record>
+    <record id="res_country_rural_municipality_Panchthar_Yangwarak" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Panchthar"/>
+            <field name="name">Yangwarak Rural Municipality</field>
+            <field name="code">8F</field>
+    </record>
+
+    <!-- **************************District 9**************************** -->
+    <record id="res_country_rural_municipality_Sankhuwasabha_Bhotkhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+            <field name="name">Bhotkhola Rural Municipality</field>
+            <field name="code">9</field>
+    </record>
+    <record id="res_country_rural_municipality_Sankhuwasabha_Makalu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+            <field name="name">Makalu Rural Municipality</field>
+            <field name="code">9A</field>
+    </record>
+    <record id="res_country_rural_municipality_Sankhuwasabha_Sabhapokhari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+            <field name="name">Sabhapokhari Rural Municipality</field>
+            <field name="code">9B</field>
+    </record>
+    <record id="res_country_rural_municipality_Sankhuwasabha_Chichila" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+            <field name="name">Chichila Rural Municipality</field>
+            <field name="code">9C</field>
+    </record>
+    <record id="res_country_rural_municipality_Sankhuwasabha_Silichong" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+            <field name="name">Silichong Rural Municipality</field>
+            <field name="code">9D</field>
+    </record>
+
+    <!-- **************************District 10**************************** -->
+    <record id="res_country_rural_municipality_Solukhumbu_Khumbupasanglahmu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">Khumbupasanglahmu Rural Municipality</field>
+            <field name="code">10</field>
+    </record>
+    <record id="res_country_rural_municipality_Solukhumbu_Likhupike" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">Likhupike Rural Municipality</field>
+            <field name="code">10A</field>
+    </record>
+    <record id="res_country_rural_municipality_Solukhumbu_Maapya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">Maapya Dudhkoshi Rural Municipality</field>
+            <field name="code">10B</field>
+    </record>
+    <record id="res_country_rural_municipality_Solukhumbu_Mahakulung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">Mahakulung Rural Municipality</field>
+            <field name="code">10C</field>
+    </record>
+    <record id="res_country_rural_municipality_Solukhumbu_Nechasalyan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">Nechasalyan Rural Municipality</field>
+            <field name="code">10D</field>
+    </record>
+    <record id="res_country_rural_municipality_Solukhumbu_Sotang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">Sotang Rural Municipality</field>
+            <field name="code">10E</field>
+    </record>
+    <record id="res_country_rural_municipality_Solukhumbu_Thulung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Solukhumbu"/>
+            <field name="name">	Thulung Dudhkoshi Rural Municipality</field>
+            <field name="code">10F</field>
+    </record>
+
+    <!-- **************************District 11**************************** -->
+    <record id="res_country_rural_municipality_Sunsari_Barju" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sunsari"/>
+            <field name="name">Barju Rural Municipality</field>
+            <field name="code">11</field>
+    </record>
+    <record id="res_country_rural_municipality_Sunsari_Bhokraha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sunsari"/>
+            <field name="name">Bhokraha Narsing Rural Municipality</field>
+            <field name="code">11A</field>
+    </record>
+    <record id="res_country_rural_municipality_Sunsari_Dewanganj" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sunsari"/>
+            <field name="name">Dewanganj Rural Municipality</field>
+            <field name="code">11B</field>
+    </record>
+    <record id="res_country_rural_municipality_Sunsari_" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sunsari"/>
+            <field name="name">Gadhi Rural Municipality</field>
+            <field name="code">11C</field>
+    </record>
+    <record id="res_country_rural_municipality_Sunsari_Harinagar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sunsari"/>
+            <field name="name">Harinagar Rural Municipality</field>
+            <field name="code">11D</field>
+    </record>
+    <record id="res_country_rural_municipality_Sunsari_Koshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sunsari"/>
+            <field name="name">Koshi Rural Municipality</field>
+            <field name="code">11E</field>
+    </record>
+    <!-- **************************District 12**************************** -->
+    <record id="res_country_municipality_Taplejung_Aathrai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Aathrai Tribeni Rural Municipality</field>
+            <field name="code">12</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Maiwakhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Maiwakhola Rural Municipality</field>
+            <field name="code">12A</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Meringden" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name"> Meringden Rural Municipality</field>
+            <field name="code">12B</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Mikwakhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Mikwakhola Rural Municipality</field>
+            <field name="code">12C</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Pathivara" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Pathivara Yangwarak Rural Municipality</field>
+            <field name="code">12D</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Phaktanglung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Phaktanglung Rural Municipality</field>
+            <field name="code">12E</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Sidingba" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Sidingba Rural Municipality</field>
+            <field name="code">12F</field>
+    </record>
+    <record id="res_country_municipality_Taplejung_Sirijangha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Taplejung"/>
+            <field name="name">Sirijangha Rural Municipality</field>
+            <field name="code">12G</field>
+    </record>
+    <!-- **************************District 13**************************** -->
+    <record id="res_country_municipality_Terhathum_Aathrai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Terhathum"/>
+            <field name="name">Aathrai Rural Municipality</field>
+            <field name="code">13</field>
+    </record>
+    <record id="res_country_municipality_Terhathum_Chhathar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Terhathum"/>
+            <field name="name">Chhathar Rural Municipality</field>
+            <field name="code">13A</field>
+    </record>
+    <record id="res_country_municipality_Terhathum_Menchayam" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Terhathum"/>
+            <field name="name">Menchayam Rural Municipality</field>
+            <field name="code">13B</field>
+    </record>
+    <record id="res_country_municipality_Terhathum_Phedap" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Terhathum"/>
+            <field name="name">Phedap Rural Municipality</field>
+            <field name="code">13C</field>
+    </record>
+    <!-- **************************District 14**************************** -->
+    <record id="res_country_municipality_Udayapur_Limchungbung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Udayapur"/>
+            <field name="name">	Limchungbung Rural Municipality</field>
+            <field name="code">14</field>
+    </record>
+    <record id="res_country_municipality_Udayapur_Rautamai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Udayapur"/>
+            <field name="name">Rautamai Rural Municipality</field>
+            <field name="code">14A</field>
+    </record>
+    <record id="res_country_municipality_Udayapur_Tapli" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Udayapur"/>
+            <field name="name">	Tapli Rural Municipality</field>
+            <field name="code">14B</field>
+    </record>
+    <record id="res_country_municipality_Udayapur_Udayapurgadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Udayapur"/>
+            <field name="name">Udayapurgadhi Rural Municipality</field>
+            <field name="code">14C</field>
+    </record>
+    <!-- **************************District 15**************************** -->
+    <record id="res_country_municipality_res_country_district_Bara_Adarshkotwal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Adarshkotwal Rural Municipality</field>
+            <field name="code">15</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Baragadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Baragadhi Rural Municipality</field>
+            <field name="code">15A</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Bishrampur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Bishrampur Rural Municipality</field>
+            <field name="code">15B</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Devtal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Devtal Rural Municipality</field>
+            <field name="code">15C</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Karaiyamai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Karaiyamai Rural Municipality</field>
+            <field name="code">15D</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Parwanipur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Parwanipur Rural Municipality</field>
+            <field name="code">15E</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Pheta" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Pheta Rural Municipality</field>
+            <field name="code">15F</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Prasauni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Prasauni Rural Municipality</field>
+            <field name="code">15G</field>
+    </record>
+    <record id="res_country_municipality_res_country_district_Bara_Suwarna" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bara"/>
+            <field name="name">Suwarna Rural Municipality</field>
+            <field name="code">15H</field>
+    </record>
+    <!-- **************************District 16**************************** -->
+    <record id="res_country_municipality_Dhanusa_Mukhiyapatti" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhanusa"/>
+            <field name="name">Mukhiyapatti Musarmiya Rural Municipality</field>
+            <field name="code">16</field>
+    </record>
+    <record id="res_country_municipality_Dhanusa_Lakshminiya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhanusa"/>
+            <field name="name">Lakshminiya Rural Municipality</field>
+            <field name="code">16A</field>
+    </record>
+    <record id="res_country_municipality_Dhanusa_Janaknandani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhanusa"/>
+            <field name="name">Janaknandani Rural Municipality</field>
+            <field name="code">16B</field>
+    </record>
+    <record id="res_country_municipality_Dhanusa_Dhanauji" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhanusa"/>
+            <field name="name">Dhanauji Rural Municipality</field>
+            <field name="code">16C</field>
+    </record>
+    <record id="res_country_municipality_Dhanusa_Bateshwor" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhanusa"/>
+            <field name="name">Bateshwor Rural Municipality</field>
+            <field name="code">16D</field>
+    </record>
+    <record id="res_country_municipality_Dhanusa_Aaurahi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhanusa"/>
+            <field name="name">Aaurahi Rural Municipality</field>
+            <field name="code">16E</field>
+    </record>
+
+    <!-- **************************District 17**************************** -->
+
+    <record id="res_country_municipality_Mahottari_Ekdanra" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mahottari"/>
+            <field name="name">Ekdanra Rural Municipality</field>
+            <field name="code">17</field>
+    </record>
+    <record id="res_country_municipality_Mahottari_Mahottari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mahottari"/>
+            <field name="name">Mahottari Rural Municipality</field>
+            <field name="code">17A</field>
+    </record>
+    <record id="res_country_municipality_Mahottari_Pipra" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mahottari"/>
+            <field name="name">Pipra Rural Municipality</field>
+            <field name="code">17B</field>
+    </record>
+    <record id="res_country_municipality_Mahottari_Samsi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mahottari"/>
+            <field name="name">Samsi Rural Municipality</field>
+            <field name="code">17C</field>
+    </record>
+    <record id="res_country_municipality_Mahottari_Sonama" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mahottari"/>
+            <field name="name">Sonama Rural Municipality</field>
+            <field name="code">17D</field>
+    </record>
+    <!-- **************************District 18**************************** -->
+    <record id="res_country_municipality_Parsa_Bindabasini" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Bindabasini Rural Municipality </field>
+            <field name="code">18</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Chhipaharmai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Chhipaharmai Rural Municipality</field>
+            <field name="code">18A</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Dhobini" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Dhobini Rural Municipality</field>
+            <field name="code">18B</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Jagarnathpur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Jagarnathpur Rural Municipality</field>
+            <field name="code">18C</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Jirabhawani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Jirabhawani Rural Municipality</field>
+            <field name="code">18D</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Kalikamai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Kalikamai Rural Municipality</field>
+            <field name="code">18E</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Pakahamainpur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Pakahamainpur Rural Municipality</field>
+            <field name="code">18F</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Paterwasugauli" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Paterwasugauli Rural Municipality</field>
+            <field name="code">18G</field>
+    </record>
+    <record id="res_country_municipality_Parsa_SakhuwaPrasauni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">SakhuwaPrasauni Rural Municipality</field>
+            <field name="code">18H</field>
+    </record>
+    <record id="res_country_municipality_Parsa_Thori" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parsa"/>
+            <field name="name">Thori Rural Municipality</field>
+            <field name="code">18I</field>
+    </record>
+    <!-- **************************District 19**************************** -->
+    <record id="res_country_municipality_Rautahat_Durga" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rautahat"/>
+            <field name="name">Durga Bhagwati Rural Municipality</field>
+            <field name="code">19</field>
+    </record>
+    <record id="res_country_municipality_Rautahat_Yemunamai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rautahat"/>
+            <field name="name">Yemunamai Rural Municipality</field>
+            <field name="code">19A</field>
+    </record>
+    <!-- **************************District 20**************************** -->
+    <record id="res_country_municipality_Saptari_Agnisair" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Agnisair Krishna Savaran Rural Municipality	</field>
+            <field name="code">20</field>
+    </record>
+    <record id="res_country_municipality_Saptari_" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Balan Bihul Rural Municipality</field>
+            <field name="code">20A</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Bishnupur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Bishnupur Rural Municipality</field>
+            <field name="code">20B</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Chhinnamasta" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Chhinnamasta Rural Municipality</field>
+            <field name="code">20C</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Mahadeva" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Mahadeva Rural Municipality</field>
+            <field name="code">20D</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Rajgadh" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Rajgadh Rural Municipality</field>
+            <field name="code">20E</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Rupani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Rupani Rural Municipality</field>
+            <field name="code">20F</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Tilathi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Tilathi Koiladi Rural Municipality</field>
+            <field name="code">20G</field>
+    </record>
+    <record id="res_country_municipality_Saptari_Tirahut" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Saptari"/>
+            <field name="name">Tirahut Rural Municipality</field>
+            <field name="code">20H</field>
+    </record>
+    <!-- **************************District 21**************************** -->
+    <record id="res_country_municipality_Sarlahi_Dhankaul" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Dhankaul Rural Municipality</field>
+            <field name="code">21</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Parsa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Parsa Rural Municipality</field>
+            <field name="code">21A</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Bishnu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Bishnu Rural Municipality</field>
+            <field name="code">21B</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Ramnagar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Ramnagar Rural Municipality</field>
+            <field name="code">21C</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Kaudena" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Kaudena Rural Municipality</field>
+            <field name="code">21D</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Basbariya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Basbariya Rural Municipality</field>
+            <field name="code">21E</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Chandranagar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Chandranagar Rural Municipality</field>
+            <field name="code">21F</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Chakraghatta" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Chakraghatta Rural Municipality</field>
+            <field name="code">21G</field>
+    </record>
+    <record id="res_country_municipality_Sarlahi_Bramhapuri" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sarlahi"/>
+            <field name="name">Bramhapuri Rural Municipality</field>
+            <field name="code">21H</field>
+    </record>
+    <!-- **************************District 22**************************** -->
+    <record id="res_country_municipality_Siraha_Aurahi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Aurahi Rural Municipality</field>
+            <field name="code">22</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Naraha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Naraha Rural Municipality</field>
+            <field name="code">22A</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Arnama" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Arnama Rural Municipality</field>
+            <field name="code">22B</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Bhagawanpur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Bhagawanpur Rural Municipality</field>
+            <field name="code">22C</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Nawarajpur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Nawarajpur Rural Municipality</field>
+            <field name="code">22D</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Bishnupur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Bishnupur Rural Municipality</field>
+            <field name="code">22E</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Bariyarpatti" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Bariyarpatti Rural Municipality</field>
+            <field name="code">22F</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Laxmipur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Laxmipur Patari Rural Municipality</field>
+            <field name="code">22G</field>
+    </record>
+    <record id="res_country_municipality_Siraha_Sakhuwanankarkatti" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Siraha"/>
+            <field name="name">Sakhuwanankarkatti Rural Municipality	</field>
+            <field name="code">22H</field>
+    </record>
+    <!-- **************************District 23**************************** -->
+    <!-- <record id="res_country_municipality_Bhaktapur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bhaktapur"/>
+            <field name="name"></field>
+            <field name="code">23</field>
+    </record> -->
+    <!-- **************************District 24**************************** -->
+    <record id="res_country_municipality_Bhojpur_Chitwan_Ichchhyakamana" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Chitwan"/>
+            <field name="name">Ichchhyakamana Rural Municipality</field>
+            <field name="code">24</field>
+    </record>
+
+    <!-- **************************District 25**************************** -->
+    <record id="res_country_municipality_Dhading_Gajuri" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Gajuri Rural Municipality</field>
+            <field name="code">25</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Galchi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Galchi Rural Municipality</field>
+            <field name="code">25A</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Thakre" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Thakre Rural Municipality</field>
+            <field name="code">25B</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Siddhalek" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Siddhalek Rural Municipality</field>
+            <field name="code">25C</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Khaniyabash" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Khaniyabash Rural Municipality</field>
+            <field name="code">25D</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Jwalamukhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Jwalamukhi Rural Municipality</field>
+            <field name="code">25E</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Gangajamuna" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Gangajamuna Rural Municipality</field>
+            <field name="code">25F</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Rubi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Rubi Valley Rural Municipality</field>
+            <field name="code">25G</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Tripura" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Tripura Sundari Rural Municipality</field>
+            <field name="code">25H</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Netrawati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Netrawati Dabjong Rural Municipality</field>
+            <field name="code">25I</field>
+    </record>
+    <record id="res_country_municipality_Dhading_Benighat" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dhading"/>
+            <field name="name">Benighat Rorang Rural Municipality</field>
+            <field name="code">25J</field>
+    </record>
+    <!-- **************************District 26**************************** -->
+    <record id="res_country_municipality_Dolakha_Bigu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Bigu Rural Municipality</field>
+            <field name="code">26</field>
+    </record>
+    <record id="res_country_municipality_Dolakha_Sailung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Sailung Rural Municipality</field>
+            <field name="code">26A</field>
+    </record>
+    <record id="res_country_municipality_Dolakha_Melung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Melung Rural Municipality</field>
+            <field name="code">26B</field>
+    </record>
+    <record id="res_country_municipality_Dolakha_Baiteshwor" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Baiteshwor Rural Municipality</field>
+            <field name="code">26C</field>
+    </record>
+    <record id="res_country_municipality_Dolakha_Tamakoshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Tamakoshi Rural Municipality</field>
+            <field name="code">26D</field>
+    </record>
+    <record id="res_country_municipality_Dolakha_Gaurishankar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Gaurishankar Rural Municipality</field>
+            <field name="code">26E</field>
+    </record>
+    <record id="res_country_municipality_Dolakha_Kalinchok" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolakha"/>
+            <field name="name">Kalinchok Rural Municipality</field>
+            <field name="code">26F</field>
+    </record>
+    <!-- **************************District 27**************************** -->
+    <!-- <record id="res_country_municipality_Kathmandu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kathmandu"/>
+            <field name="name">Kageshwari</field>
+            <field name="code">27</field>
+    </record> -->
+
+    <!-- **************************District 28**************************** -->
+
+    <record id="res_country_municipality_Kavrepalanchok_Roshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Roshi Rural Municipality</field>
+            <field name="code">28</field>
+    </record>
+    <record id="res_country_municipality_Kavrepalanchok_Temal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Temal Rural Municipality</field>
+            <field name="code">28A</field>
+    </record>
+    <record id="res_country_municipality_Kavrepalanchok_Bhumlu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Bhumlu Rural Municipality</field>
+            <field name="code">28B</field>
+    </record>
+    <record id="res_country_municipality_Kavrepalanchok_Mahabharat" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Mahabharat Rural Municipality</field>
+            <field name="code">28C</field>
+    </record>
+    <record id="res_country_municipality_Kavrepalanchok_Bethanchowk" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Bethanchowk Rural Municipality</field>
+            <field name="code">28D</field>
+    </record>
+    <record id="res_country_municipality_Kavrepalanchok_Khanikhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Khanikhola Rural Municipality</field>
+            <field name="code">28E</field>
+    </record>
+    <record id="res_country_municipality_Kavrepalanchok_Chaurideurali" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+            <field name="name">Chaurideurali Rural Municipality</field>
+            <field name="code">28F</field>
+    </record>
+    <!-- **************************District 29**************************** -->
+    <record id="res_country_municipality_Lalitpur_Bagmati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lalitpur"/>
+            <field name="name">Bagmati Rural Municipality</field>
+            <field name="code">29</field>
+    </record>
+    <record id="res_country_municipality_Lalitpur_Mahankal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lalitpur"/>
+            <field name="name">Mahankal Rural Municipality</field>
+            <field name="code">29A</field>
+    </record>
+    <record id="res_country_municipality_Lalitpur_Konjyosom" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lalitpur"/>
+            <field name="name">Konjyosom Rural Municipality</field>
+            <field name="code">29B</field>
+    </record>
+
+    <!-- **************************District 30**************************** -->
+    <record id="res_country_municipality_Makawanpur_HetaBakaiya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">HetaBakaiya Rural Municipalityuda</field>
+            <field name="code">30</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Kailash" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Kailash Rural Municipality</field>
+            <field name="code">30A</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Manahari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Manahari Rural Municipality</field>
+            <field name="code">30B</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Bhimphedi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Bhimphedi Rural Municipality</field>
+            <field name="code">30C</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Bagmati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Bagmati Rural Municipality</field>
+            <field name="code">30D</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Raksirang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Raksirang Rural Municipality</field>
+            <field name="code">30E</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Makawanpurgadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Makawanpurgadhi Rural Municipality</field>
+            <field name="code">30F</field>
+    </record>
+    <record id="res_country_municipality_Makawanpur_Indrasarowar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Makawanpur"/>
+            <field name="name">Indrasarowar Rural Municipality</field>
+            <field name="code">30G</field>
+    </record>
+    <!-- **************************District 31**************************** -->
+    <record id="res_country_municipality_Nuwakot_Kakani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Kakani Rural Municipality</field>
+            <field name="code">31</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Tadi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Tadi Rural Municipality</field>
+            <field name="code">31A</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Likhu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Likhu Rural Municipality</field>
+            <field name="code">31B</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Myagang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Myagang Rural Municipality</field>
+            <field name="code">31C</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Shivapuri" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Shivapuri Rural Municipality</field>
+            <field name="code">31D</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Kispang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Kispang Rural Municipality</field>
+            <field name="code">31E</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Suryagadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Suryagadhi Rural Municipality</field>
+            <field name="code">31F</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Tarkeshwar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Tarkeshwar Rural Municipality</field>
+            <field name="code">31G</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Panchakanya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Panchakanya Rural Municipality</field>
+            <field name="code">31H</field>
+    </record>
+    <record id="res_country_municipality_Nuwakot_Dupcheshwar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nuwakot"/>
+            <field name="name">Dupcheshwar Rural Municipality</field>
+            <field name="code">31I</field>
+    </record>
+    
+    <!-- **************************District 32**************************** -->
+    <record id="res_country_municipality_Rasuwa_Kalika" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rasuwa"/>
+            <field name="name">Kalika Rural Municipality</field>
+            <field name="code">32</field>
+    </record>
+    <record id="res_country_municipality_Rasuwa_Naukunda" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rasuwa"/>
+            <field name="name">Naukunda Rural Municipality</field>
+            <field name="code">32A</field>
+    </record>
+    <record id="res_country_municipality_Rasuwa_Uttargaya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rasuwa"/>
+            <field name="name">Uttargaya Rural Municipality</field>
+            <field name="code">32B</field>
+    </record>
+    <record id="res_country_municipality_Rasuwa_Gosaikunda" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rasuwa"/>
+            <field name="name">Gosaikunda Rural Municipality</field>
+            <field name="code">32C</field>
+    </record>
+    <record id="res_country_municipality_Rasuwa_Amachodingmo" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rasuwa"/>
+            <field name="name">Amachodingmo Rural Municipality</field>
+            <field name="code">32D</field>
+    </record>
+    <!-- **************************District 33**************************** -->
+    <record id="res_country_municipality_Sindhuli_Marin" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Marin Rural Municipality</field>
+            <field name="code">33</field>
+    </record>
+    <record id="res_country_municipality_Sindhuli_Phikkal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Phikkal Rural Municipality</field>
+            <field name="code">33A</field>
+    </record>
+    <record id="res_country_municipality_Sindhuli_Tinpatan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Tinpatan Rural Municipality</field>
+            <field name="code">33B</field>
+    </record>
+    <record id="res_country_municipality_Sindhuli_Sunkoshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Sunkoshi Rural Municipality</field>
+            <field name="code">33C</field>
+    </record>
+    <record id="res_country_municipality_Sindhuli_Golanjor" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Golanjor Rural Municipality</field>
+            <field name="code">33D</field>
+    </record>
+    <record id="res_country_municipality_Sindhuli_Ghanglekh" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Ghanglekh Rural Municipality</field>
+            <field name="code">33E</field>
+    </record>
+    <record id="res_country_municipality_Sindhuli_Hariharpurgadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhuli"/>
+            <field name="name">Hariharpurgadhi Rural Municipality</field>
+            <field name="code">33F</field>
+    </record>
+    <!-- **************************District 34**************************** -->
+    <record id="res_country_municipality_Sindhupalchok_Jugal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Jugal Rural Municipality</field>
+            <field name="code">34A</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Balefi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Balefi Rural Municipality</field>
+            <field name="code">34B</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Sunkoshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Sunkoshi Rural Municipality</field>
+            <field name="code">34C</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Helambu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Helambu Rural Municipality</field>
+            <field name="code">34D</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Bhotekoshi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Bhotekoshi Rural Municipality</field>
+            <field name="code">34E</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Lisangkhu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Lisangkhu Pakhar Rural Municipality</field>
+            <field name="code">34F</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Indrawati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Indrawati Rural Municipality</field>
+            <field name="code">34G</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Tripurasundari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Tripurasundari Rural Municipality</field>
+            <field name="code">34H</field>
+    </record>
+    <record id="res_country_municipality_Sindhupalchok_Panchpokhari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+            <field name="name">Panchpokhari Thangpal Rural Municipality	</field>
+            <field name="code">34I</field>
+    </record>
+
+    <!-- **************************District 35**************************** -->
+    <record id="res_country_municipality_Baglung_Bareng" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baglung"/>
+            <field name="name">Bareng Rural Municipality</field>
+            <field name="code">35</field>
+    </record>
+    <record id="res_country_municipality_Baglung_Badigad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baglung"/>
+            <field name="name">Badigad Rural Municipality</field>
+            <field name="code">35A</field>
+    </record>
+    <record id="res_country_municipality_Baglung_Nisikhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baglung"/>
+            <field name="name">Nisikhola Rural Municipality</field>
+            <field name="code">35B</field>
+    </record>
+    <record id="res_country_municipality_Baglung_Kanthekhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baglung"/>
+            <field name="name">Kanthekhola Rural Municipality</field>
+            <field name="code">35C</field>
+    </record>
+    <record id="res_country_municipality_Baglung_Tara" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baglung"/>
+            <field name="name">Tara Khola Rural Municipality</field>
+            <field name="code">35D</field>
+    </record>
+    <record id="res_country_municipality_Baglung_Taman" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baglung"/>
+            <field name="name">Taman Khola Rural Municipality</field>
+            <field name="code">35E</field>
+    </record>
+
+    <!-- **************************District 36**************************** -->
+    <record id="res_country_municipality_Gorkha_Gandaki" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Gandaki Rural Municipality</field>
+            <field name="code">36</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Dharche" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Dharche Rural Municipality</field>
+            <field name="code">36A</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Aarughat" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Aarughat Rural Municipality</field>
+            <field name="code">36B</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Ajirkot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Ajirkot Rural Municipality</field>
+            <field name="code">36C</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Sahid" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Sahid Lakhan Rural Municipality</field>
+            <field name="code">36D</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Siranchok" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Siranchok Rural Municipality</field>
+            <field name="code">36E</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Bhimsenthapa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Bhimsenthapa Rural Municipality</field>
+            <field name="code">36F</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Chum" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Chum Nubri Rural Municipality</field>
+            <field name="code">36G</field>
+    </record>
+    <record id="res_country_municipality_Gorkha_Barpak" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gorkha"/>
+            <field name="name">Barpak Sulikot Rural Municipality</field>
+            <field name="code">36H</field>
+    </record>
+    <!-- **************************District 38**************************** -->
+    <record id="res_country_municipality_Kaski_Rupa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kaski"/>
+            <field name="name">Rupa Rural Municipality</field>
+            <field name="code">37</field>
+    </record>
+    <record id="res_country_municipality_Kaski_Madi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kaski"/>
+            <field name="name">Madi Rural Municipality</field>
+            <field name="code">37A</field>
+    </record>
+    <record id="res_country_municipality_Kaski_Annapurna" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kaski"/>
+            <field name="name">Annapurna Rural Municipality</field>
+            <field name="code">37B</field>
+    </record>
+    <record id="res_country_municipality_Kaski_Machhapuchchhre" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kaski"/>
+            <field name="name">Machhapuchchhre Rural Municipality</field>
+            <field name="code">37C</field>
+    </record>
+    <!-- **************************District 38**************************** -->
+    <record id="res_country_municipality_Lamjung_Dordi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lamjung"/>
+            <field name="name">Dordi Rural Municipality</field>
+            <field name="code">38</field>
+    </record>
+    <record id="res_country_municipality_Lamjung_Dudhpokhari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lamjung"/>
+            <field name="name">Dudhpokhari Rural Municipality</field>
+            <field name="code">38A</field>
+    </record>
+    <record id="res_country_municipality_Lamjung_Marsyangdi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lamjung"/>
+            <field name="name">Marsyangdi Rural Municipality</field>
+            <field name="code">38B</field>
+    </record>
+    <record id="res_country_municipality_Lamjung_Kwholasothar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Lamjung"/>
+            <field name="name">Kwholasothar Rural Municipality</field>
+            <field name="code">38C</field>
+    </record>
+
+    <!-- **************************District 39**************************** -->
+    <record id="res_country_municipality_Manang_Chame" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Manang"/>
+            <field name="name">Chame Rural Municipality</field>
+            <field name="code">39A</field>
+    </record>
+    <record id="res_country_municipality_Manang_Narshon" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Manang"/>
+            <field name="name">Narshon Rural Municipality</field>
+            <field name="code">39B</field>
+    </record>
+    <record id="res_country_municipality_Manang_Narpa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Manang"/>
+            <field name="name">Narpa Bhumi Rural Municipality</field>
+            <field name="code">39C</field>
+    </record>
+    <record id="res_country_municipality_Manang_Manang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Manang"/>
+            <field name="name">Manang Ingshyang Rural Municipality</field>
+            <field name="code">39D</field>
+    </record>
+    
+    <!-- **************************District 40**************************** -->
+    <record id="res_country_municipality_Mustang_Thasang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mustang"/>
+            <field name="name">Thasang Rural Municipality</field>
+            <field name="code">40</field>
+    </record>
+    <record id="res_country_municipality_Mustang_Gharapjhong" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mustang"/>
+            <field name="name">Gharapjhong Rural Municipality</field>
+            <field name="code">40A</field>
+    </record>
+    <record id="res_country_municipality_Mustang_Lomanthang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mustang"/>
+            <field name="name">Lomanthang Rural Municipality</field>
+            <field name="code">40B</field>
+    </record>
+    <record id="res_country_municipality_Mustang_Lo" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mustang"/>
+            <field name="name">Lo-Ghekar Damodarkunda Rural Municipality </field>
+            <field name="code">40C</field>
+    </record>
+    <record id="res_country_municipality_Mustang_Waragung" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mustang"/>
+            <field name="name">Waragung Muktikhsetra Rural Municipality</field>
+            <field name="code">40D</field>
+    </record>
+    <!-- **************************District 41**************************** -->
+    <record id="res_country_municipality_Myagdi_Mangala" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Myagdi"/>
+            <field name="name">Mangala Rural Municipality</field>
+            <field name="code">41</field>
+    </record>
+    <record id="res_country_municipality_Myagdi_Malika" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Myagdi"/>
+            <field name="name">Malika Rural Municipality</field>
+            <field name="code">41A</field>
+    </record>
+    <record id="res_country_municipality_Myagdi_Raghuganga" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Myagdi"/>
+            <field name="name">Raghuganga Rural Municipality</field>
+            <field name="code">41B</field>
+    </record>
+    <record id="res_country_municipality_Myagdi_Dhaulagiri" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Myagdi"/>
+            <field name="name">Dhaulagiri Rural Municipality</field>
+            <field name="code">41C</field>
+    </record>
+    <record id="res_country_municipality_Myagdi_Annapurna" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Myagdi"/>
+            <field name="name">Annapurna Rural Municipality</field>
+            <field name="code">41D</field>
+    </record>
+    <!-- **************************District 42**************************** -->
+    <record id="res_country_municipality_Nawalpur_Baudeekali" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+            <field name="name">Baudeekali Rural Municipality</field>
+            <field name="code">42</field>
+    </record>
+    <record id="res_country_municipality_Nawalpur_Bulingtar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+            <field name="name">Bulingtar Rural Municipality</field>
+            <field name="code">42A</field>
+    </record>
+    <record id="res_country_municipality_Nawalpur_Hupsekot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+            <field name="name">Hupsekot Rural Municipality</field>
+            <field name="code">42B</field>
+    </record>
+    <record id="res_country_municipality_Nawalpur_Binayee" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+            <field name="name">Binayee Tribeni Rural Municipality</field>
+            <field name="code">42C</field>
+    </record>
+
+    <!-- **************************District 43**************************** -->
+    <record id="res_country_municipality_Parbat_Modi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parbat"/>
+            <field name="name">Modi Rural Municipality </field>
+            <field name="code">43</field>
+    </record>
+    <record id="res_country_municipality_Parbat_Painyu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parbat"/>
+            <field name="name">Painyu Rural Municipality</field>
+            <field name="code">43A</field>
+    </record>
+    <record id="res_country_municipality_Parbat_Jaljala" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parbat"/>
+            <field name="name">Jaljala Rural Municipality</field>
+            <field name="code">43B</field>
+    </record>
+    <record id="res_country_municipality_Parbat_Bihadi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parbat"/>
+            <field name="name">Bihadi Rural Municipality</field>
+            <field name="code">43C</field>
+    </record>
+    <record id="res_country_municipality_Parbat_Mahashila" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Parbat"/>
+            <field name="name">Mahashila Rural Municipality</field>
+            <field name="code">43D</field>
+    </record>
+    <!-- **************************District 44**************************** -->
+    <record id="res_country_municipality_Syangja_Harinas" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Syangja"/>
+            <field name="name">Harinas Rural Municipality</field>
+            <field name="code">44</field>
+    </record>
+    <record id="res_country_municipality_Syangja_Biruwa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Syangja"/>
+            <field name="name">Biruwa Rural Municipality</field>
+            <field name="code">44A</field>
+    </record>
+    <record id="res_country_municipality_Syangja_Aandhikhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Syangja"/>
+            <field name="name">Aandhikhola Rural Municipality</field>
+            <field name="code">44B</field>
+    </record>
+    <record id="res_country_municipality_Syangja_Phedikhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Syangja"/>
+            <field name="name">Phedikhola Rural Municipality</field>
+            <field name="code">44C</field>
+    </record>
+    <record id="res_country_municipality_Syangja_Kaligandagi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Syangja"/>
+            <field name="name">Kaligandagi Rural Municipality</field>
+            <field name="code">44D</field>
+    </record>
+    <record id="res_country_municipality_Syangja_Arjunchaupari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Syangja"/>
+            <field name="name">Arjunchaupari Rural Municipality</field>
+            <field name="code">44E</field>
+    </record>
+    <!-- **************************District 45**************************** -->
+    <record id="res_country_municipality_Tanahu_Ghiring" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Tanahu"/>
+            <field name="name">Ghiring Rural Municipality</field>
+            <field name="code">45</field>
+    </record>
+    <record id="res_country_municipality_Tanahu_Devghat" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Tanahu"/>
+            <field name="name">Devghat Rural Municipality</field>
+            <field name="code">45A</field>
+    </record>
+    <record id="res_country_municipality_Tanahu_Rhishing" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Tanahu"/>
+            <field name="name">Rhishing Rural Municipality</field>
+            <field name="code">45B</field>
+    </record>
+    <record id="res_country_municipality_Tanahu_Myagde" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Tanahu"/>
+            <field name="name">Myagde Rural Municipality</field>
+            <field name="code">45C</field>
+    </record>
+    <record id="res_country_municipality_Tanahu_Bandipur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Tanahu"/>
+            <field name="name">Bandipur Rural Municipality</field>
+            <field name="code">45D</field>
+    </record>
+    <record id="res_country_municipality_Tanahu_Anbukhaireni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Tanahu"/>
+            <field name="name">Anbukhaireni Rural Municipality</field>
+            <field name="code">45E</field>
+    </record>
+
+    <!-- **************************District 46**************************** -->
+    <record id="res_country_municipality_Arghakhanchi_Panini" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Arghakhanchi"/>
+            <field name="name">Panini Rural Municipality</field>
+            <field name="code">46</field>
+    </record>
+    <record id="res_country_municipality_Arghakhanchi_Chhatradev" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Arghakhanchi"/>
+            <field name="name">Chhatradev Rural Municipality</field>
+            <field name="code">46A</field>
+    </record>
+    <record id="res_country_municipality_Arghakhanchi_Malarani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Arghakhanchi"/>
+            <field name="name">Malarani Rural Municipality</field>
+            <field name="code">46B</field>
+    </record>
+    <!-- **************************District 47**************************** -->
+    <record id="res_country_municipality_Banke_Khajura" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Banke"/>
+            <field name="name">Khajura Rural Municipality</field>
+            <field name="code">47</field>
+    </record>
+    <record id="res_country_municipality_Banke_Janki" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Banke"/>
+            <field name="name">Janki Rural Municipality</field>
+            <field name="code">47A</field>
+    </record>
+    <record id="res_country_municipality_Banke_Baijanath" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Banke"/>
+            <field name="name">Baijanath Rural Municipality</field>
+            <field name="code">47B</field>
+    </record>
+    <record id="res_country_municipality_Banke_Duduwa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Banke"/>
+            <field name="name">Duduwa Rural Municipality</field>
+            <field name="code">47C</field>
+    </record>
+    <record id="res_country_municipality_Banke_Narainapur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Banke"/>
+            <field name="name">Narainapur Rural Municipality</field>
+            <field name="code">47D</field>
+    </record>
+    <record id="res_country_municipality_Banke_Rapti" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Banke"/>
+            <field name="name">Rapti Sonari Rural Municipality</field>
+            <field name="code">47E</field>
+    </record>
+
+    <!-- **************************District 48**************************** -->
+    <record id="res_country_municipality_Bardiya_Geruwa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bardiya"/>
+            <field name="name">Geruwa Rural Municipality</field>
+            <field name="code">48</field>
+    </record>
+    <record id="res_country_municipality_Bardiya_Badhaiyatal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bardiya"/>
+            <field name="name">Badhaiyatal Rural Municipality</field>
+            <field name="code">48A</field>
+    </record>
+    <!-- **************************District 49**************************** -->
+    <record id="res_country_municipality_Dang_Babai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Babai Rural Municipality</field>
+            <field name="code">49</field>
+    </record>
+    <record id="res_country_municipality_Dang_Gadhawa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Gadhawa Rural Municipality</field>
+            <field name="code">49A</field>
+    </record>
+    <record id="res_country_municipality_Dang_Rapti" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Rapti Rural Municipality</field>
+            <field name="code">49B</field>
+    </record>
+    <record id="res_country_municipality_Dang_Rajpur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Rajpur Rural Municipality</field>
+            <field name="code">49C</field>
+    </record>
+    <record id="res_country_municipality_Dang_Dangisharan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Dangisharan Rural Municipality</field>
+            <field name="code">49D</field>
+    </record>
+    <record id="res_country_municipality_Dang_Shantinagar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Shantinagar Rural Municipality</field>
+            <field name="code">49E</field>
+    </record>
+    <record id="res_country_municipality_Dang_Banglachuli" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dang"/>
+            <field name="name">Banglachuli Rural Municipality</field>
+            <field name="code">49F</field>
+    </record>
+    <!-- **************************District 50**************************** -->
+    <record id="res_country_municipality_Gulmi_Ruru" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Ruru Rural Municipality</field>
+            <field name="code">50</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Isma" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Isma Rural Municipality</field>
+            <field name="code">50A</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Madane" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Madane Rural Municipality</field>
+            <field name="code">50B</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Malika" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Malika Rural Municipality</field>
+            <field name="code">50C</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Chatrakot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Chatrakot Rural Municipality</field>
+            <field name="code">50D</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Dhurkot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Dhurkot Rural Municipality</field>
+            <field name="code">50E</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Satyawati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Satyawati Rural Municipality</field>
+            <field name="code">50F</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Chandrakot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Chandrakot Rural Municipality</field>
+            <field name="code">50G</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Kaligandaki" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Kaligandaki Rural Municipality</field>
+            <field name="code">50H</field>
+    </record>
+    <record id="res_country_municipality_Gulmi_Gulmidarbar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Gulmi"/>
+            <field name="name">Gulmidarbar Rural Municipality</field>
+            <field name="code">50I</field>
+    </record>
+    <!-- **************************District 51**************************** -->
+    <record id="res_country_municipality_Kapilvastu_Yashodhara" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kapilvastu"/>
+            <field name="name">Yashodhara Rural Municipality</field>
+            <field name="code">51</field>
+    </record>
+    <record id="res_country_municipality_Kapilvastu_Bijayanagar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kapilvastu"/>
+            <field name="name">Bijayanagar Rural Municipality</field>
+            <field name="code">51A</field>
+    </record>
+    <record id="res_country_municipality_Kapilvastu_Mayadevi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kapilvastu"/>
+            <field name="name">Mayadevi Rural Municipality</field>
+            <field name="code">51B</field>
+    </record>
+    <record id="res_country_municipality_Kapilvastu_Suddhodhan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kapilvastu"/>
+            <field name="name">Suddhodhan Rural Municipality</field>
+            <field name="code">51C</field>
+    </record>
+    <!-- **************************District 52**************************** -->
+    <record id="res_country_municipality_Parasi_Sarawal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Sarawal Rural Municipality</field>
+            <field name="code">52</field>
+    </record>
+    <record id="res_country_municipality_Parasi_Susta" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Susta Rural Municipality</field>
+            <field name="code">52A</field>
+    </record>
+    <record id="res_country_municipality_Parasi_Pratappur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Pratappur Rural Municipality</field>
+            <field name="code">52B</field>
+    </record>
+    <record id="res_country_municipality_Parasi_Palhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Palhi Nandan Rural Municipality</field>
+            <field name="code">52C</field>
+    </record>
+    <!-- **************************District 53**************************** -->
+    <record id="res_country_municipality_Palpa_Rambha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Rambha Rural Municipality</field>
+            <field name="code">53</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Tinau" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Tinau Rural Municipality</field>
+            <field name="code">53A</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Nisdi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Nisdi Rural Municipality</field>
+            <field name="code">53B</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Mathagadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Mathagadhi Rural Municipality</field>
+            <field name="code">53C</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Ribdikot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Ribdikot Rural Municipality</field>
+            <field name="code">53D</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Bagnaskali" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Bagnaskali Rural Municipality</field>
+            <field name="code">53E</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Rainadevi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Rainadevi Chhahara Rural Municipality</field>
+            <field name="code">53F</field>
+    </record>
+    <record id="res_country_municipality_Palpa_Purbakhola" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Palpa"/>
+            <field name="name">Purbakhola Rural Municipality</field>
+            <field name="code">53G</field>
+    </record>
+<!-- **************************District 54**************************** -->
+    <record id="res_country_municipality_Pyuthan_Ayirabati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Ayirabati Rural Municipality</field>
+            <field name="code">54</field>
+    </record>
+    <record id="res_country_municipality_Pyuthan_Gaumukhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Gaumukhi Rural Municipality</field>
+            <field name="code">54A</field>
+    </record>
+    <record id="res_country_municipality_Pyuthan_Jhimruk" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Jhimruk Rural Municipality</field>
+            <field name="code">54B</field>
+    </record>
+    <record id="res_country_municipality_Pyuthan_Naubahini" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Naubahini Rural Municipality</field>
+            <field name="code">54C</field>
+    </record>
+    <record id="res_country_municipality_Pyuthan_Mandavi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Mandavi Rural Municipality</field>
+            <field name="code">54D</field>
+    </record>
+    <record id="res_country_municipality_Pyuthan_Mallarani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Mallarani Rural Municipality</field>
+            <field name="code">54E</field>
+    </record>
+    <record id="res_country_municipality_Pyuthan_Sarumarani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Pyuthan"/>
+            <field name="name">Sarumarani Rural Municipality</field>
+            <field name="code">54F</field>
+    </record>
+    <!-- **************************District 55**************************** -->
+    <record id="res_country_municipality_Rolpa_Madi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Madi Rural Municipality</field>
+            <field name="code">55</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Thawang" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Thawang Rural Municipality</field>
+            <field name="code">55A</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Sunchhahari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Sunchhahari Rural Municipality</field>
+            <field name="code">55B</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Lungri" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Lungri Rural Municipality</field>
+            <field name="code">55C</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Gangadev" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Gangadev Rural Municipality</field>
+            <field name="code">55D</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Tribeni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Tribeni Rural Municipality</field>
+            <field name="code">55E</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Pariwartan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Pariwartan Rural Municipality</field>
+            <field name="code">55F</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Runtigadi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Runtigadi Rural Municipality</field>
+            <field name="code">55G</field>
+    </record>
+    <record id="res_country_municipality_Rolpa_Sunil" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rolpa"/>
+            <field name="name">Sunil Smriti Rural Municipality</field>
+            <field name="code">55H</field>
+    </record>
+    <!-- **************************District 56**************************** -->
+    <record id="res_country_municipality_Rukum_Bhume" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rukum_East"/>
+            <field name="name">Bhume Rural Municipality</field>
+            <field name="code">56</field>
+    </record>
+    <record id="res_country_municipality_Rukum_Sisne" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rukum_East"/>
+            <field name="name">Sisne Rural Municipality</field>
+            <field name="code">56A</field>
+    </record>
+    <record id="res_country_municipality_Rukum_Putha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rukum_East"/>
+            <field name="name">Putha Uttarganga Rural Municipality</field>
+            <field name="code">56B</field>
+    </record>
+    <!-- **************************District 57**************************** -->
+    <record id="res_country_municipality_Rupandehi_Kanchan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Kanchan Rural Municipality</field>
+            <field name="code">57</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Siyari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Siyari Rural Municipality</field>
+            <field name="code">57A</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Rohini" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Rohini Rural Municipality</field>
+            <field name="code">57B</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Gaidahawa" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Gaidahawa Rural Municipality</field>
+            <field name="code">57C</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Omsatiya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Omsatiya Rural Municipality</field>
+            <field name="code">57D</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Sudhdhodhan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Sudhdhodhan Rural Municipality</field>
+            <field name="code">57E</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Mayadevi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Mayadevi Rural Municipality</field>
+            <field name="code">57F</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Marchawari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Marchawari Rural Municipality</field>
+            <field name="code">57G</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Kotahimai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Kotahimai Rural Municipality</field>
+            <field name="code">57H</field>
+    </record>
+    <record id="res_country_municipality_Rupandehi_Sammarimai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rupandehi"/>
+            <field name="name">Sammarimai Rural Municipality</field>
+            <field name="code">57I</field>
+    </record>
+    <!-- **************************District 58**************************** -->
+    <record id="res_country_municipality_Salyan_Kumakh" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">Kumakh Rural Municipality</field>
+            <field name="code">58</field>
+    </record>
+    <record id="res_country_municipality_Salyan_Darma" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">Darma Rural Municipality</field>
+            <field name="code">58A</field>
+    </record>
+    <record id="res_country_municipality_Salyan_Kapurkot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">Kapurkot Rural Municipality</field>
+            <field name="code">58B</field>
+    </record>
+    <record id="res_country_municipality_Salyan_Kalimati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">Kalimati Rural Municipality</field>
+            <field name="code">58C</field>
+    </record>
+    <record id="res_country_municipality_Salyan_Tribeni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">	Tribeni Rural Municipality</field>
+            <field name="code">58D</field>
+    </record>
+    <record id="res_country_municipality_Salyan_Chhatreshwori" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">Chhatreshwori Rural Municipality</field>
+            <field name="code">58E</field>
+    </record>
+    <record id="res_country_municipality_Salyan_Siddha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Salyan"/>
+            <field name="name">Siddha Kumakh Rural Municipality</field>
+            <field name="code">58F</field>
+    </record>
+    <!-- **************************District 59**************************** -->
+    <record id="res_country_municipality_Surkhet_Chaukune" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Surkhet"/>
+            <field name="name">Chaukune Rural Municipality</field>
+            <field name="code">59</field>
+    </record>
+    <record id="res_country_municipality_Surkhet_Simta" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Surkhet"/>
+            <field name="name">Simta Rural Municipality</field>
+            <field name="code">59A</field>
+    </record>
+    <record id="res_country_municipality_Surkhet_Chingad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Surkhet"/>
+            <field name="name">Chingad Rural Municipality</field>
+            <field name="code">59B</field>
+    </record>
+    <record id="res_country_municipality_Surkhet_Barahtal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Surkhet"/>
+            <field name="name">Barahtal Rural Municipality</field>
+            <field name="code">59C</field>
+    </record>
+    <!-- **************************District 60**************************** -->
+    <record id="res_country_municipality_Dailekh_Bhairabi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Bhairabi Rural Municipality</field>
+            <field name="code">60</field>
+    </record>
+    <record id="res_country_municipality_Dailekh_Mahabu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Mahabu Rural Municipality</field>
+            <field name="code">60A</field>
+    </record>
+    <record id="res_country_municipality_Dailekh_Gurans" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Gurans Rural Municipality</field>
+            <field name="code">60B</field>
+    </record>
+    <record id="res_country_municipality_Dailekh_Naumule" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Naumule Rural Municipality</field>
+            <field name="code">60C</field>
+    </record>
+    <record id="res_country_municipality_Dailekh_Bhagawatimai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Bhagawatimai Rural Municipality</field>
+            <field name="code">60D</field>
+    </record>
+    <record id="res_country_municipality_Dailekh_Thantikandh" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Thantikandh Rural Municipality</field>
+            <field name="code">60E</field>
+    </record>
+    <record id="res_country_municipality_Dailekh_Dungeshwor" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dailekh"/>
+            <field name="name">Dungeshwor Rural Municipality</field>
+            <field name="code">60F</field>
+    </record>
+
+    <!-- **************************District 61**************************** -->
+    <record id="res_country_municipality_Jajarkot_Kuse" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jajarkot"/>
+            <field name="name">Kuse Rural Municipality</field>
+            <field name="code">61</field>
+    </record>
+    <record id="res_country_municipality_Jajarkot_Shiwalaya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jajarkot"/>
+            <field name="name">Shiwalaya Rural Municipality</field>
+            <field name="code">61A</field>
+    </record>
+    <record id="res_country_municipality_Jajarkot_Barekot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jajarkot"/>
+            <field name="name">Barekot Rural Municipality</field>
+            <field name="code">61B</field>
+    </record>
+    <record id="res_country_municipality_Jajarkot_Junichande" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jajarkot"/>
+            <field name="name">Junichande Rural Municipality</field>
+            <field name="code">61C</field>
+    </record>
+
+    <!-- **************************District 62**************************** -->
+    <record id="res_country_municipality_Dolpa_Kaike" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolpa"/>
+            <field name="name">Kaike Rural Municipality</field>
+            <field name="code">62</field>
+    </record>
+    <record id="res_country_municipality_Dolpa_Jagadulla" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolpa"/>
+            <field name="name">Jagadulla Rural Municipality</field>
+            <field name="code">62A</field>
+    </record>
+    <record id="res_country_municipality_Dolpa_Mudkechula" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolpa"/>
+            <field name="name">Mudkechula Rural Municipality</field>
+            <field name="code">62B</field>
+    </record>
+    <record id="res_country_municipality_Dolpa_Dolpo" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolpa"/>
+            <field name="name">Dolpo Buddha Rural Municipality</field>
+            <field name="code">62C</field>
+    </record>
+    <record id="res_country_municipality_Dolpa_Shey" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolpa"/>
+            <field name="name">Shey Phoksundo Rural Municipality</field>
+            <field name="code">62D</field>
+    </record>
+    <record id="res_country_municipality_Dolpa_Chharka" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dolpa"/>
+            <field name="name">Chharka Tangsong Rural Municipality</field>
+            <field name="code">62E</field>
+    </record>
+    <!-- **************************District 63**************************** -->
+    <record id="res_country_municipality_Jumla_Hima" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Hima Rural Municipality</field>
+            <field name="code">63</field>
+    </record>
+    <record id="res_country_municipality_Jumla_Tila" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Tila Rural Municipality</field>
+            <field name="code">63A</field>
+    </record>
+    <record id="res_country_municipality_Jumla_Sinja" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Sinja Rural Municipality</field>
+            <field name="code">63B</field>
+    </record>
+    <record id="res_country_municipality_Jumla_Guthichaur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Guthichaur Rural Municipality</field>
+            <field name="code">63C</field>
+    </record>
+    <record id="res_country_municipality_Jumla_Tatopani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Tatopani Rural Municipality</field>
+            <field name="code">63D</field>
+    </record>
+    <record id="res_country_municipality_Jumla_Patrasi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Patrasi Rural Municipality</field>
+            <field name="code">63E</field>
+    </record>
+    <record id="res_country_municipality_Jumla_Kanakasundari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Jumla"/>
+            <field name="name">Kanakasundari Rural Municipality</field>
+            <field name="code">63F</field>
+    </record>
+    <!-- **************************District 64**************************** -->
+
+    <record id="res_country_municipality_Kalikot_Mahawai" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kalikot"/>
+            <field name="name">Mahawai Rural Municipality</field>
+            <field name="code">64</field>
+    </record>
+    <record id="res_country_municipality_Kalikot_Palata" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kalikot"/>
+            <field name="name">Palata Rural Municipality</field>
+            <field name="code">64A</field>
+    </record>
+    <record id="res_country_municipality_Kalikot_Naraharinath" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kalikot"/>
+            <field name="name">Naraharinath Rural Municipality</field>
+            <field name="code">64B</field>
+    </record>
+    <record id="res_country_municipality_Kalikot_Pachaljharana" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kalikot"/>
+            <field name="name">Pachaljharana Rural Municipality</field>
+            <field name="code">64C</field>
+    </record>
+    <record id="res_country_municipality_Kalikot_Subha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kalikot"/>
+            <field name="name">Subha Kalika Rural Municipality</field>
+            <field name="code">64D</field>
+    </record>
+    <record id="res_country_municipality_Kalikot_Sanni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kalikot"/>
+            <field name="name">Sanni Tribeni Rural Municipality</field>
+            <field name="code">64E</field>
+    </record>
+    <!-- **************************District 66**************************** -->
+    <record id="res_country_municipality_Mugu_Soru" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mugu"/>
+            <field name="name">Soru Rural Municipality</field>
+            <field name="code">65</field>
+    </record>
+    <record id="res_country_municipality_Mugu_Khatyad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mugu"/>
+            <field name="name">Khatyad Rural Municipality</field>
+            <field name="code">65A</field>
+    </record>
+    <record id="res_country_municipality_Mugu_Mugum" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Mugu"/>
+            <field name="name">Mugum Karmarong Rural Municipality</field>
+            <field name="code">65B</field>
+    </record>
+    <!-- **************************District 66**************************** -->
+    <record id="res_country_municipality_Humla_Simkot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Simkot Rural Municipality</field>
+            <field name="code">66</field>
+    </record>
+    <record id="res_country_municipality_Humla_Namkha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Namkha Rural Municipality</field>
+            <field name="code">66A</field>
+    </record>
+    <record id="res_country_municipality_Humla_Chankheli" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Chankheli Rural Municipality</field>
+            <field name="code">66B</field>
+    </record>
+    <record id="res_country_municipality_Humla_Tanjakot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Tanjakot Rural Municipality</field>
+            <field name="code">66C</field>
+    </record>
+    <record id="res_country_municipality_Humla_Sarkegad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Sarkegad Rural Municipality</field>
+            <field name="code">66D</field>
+    </record>
+    <record id="res_country_municipality_Humla_Adanchuli" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Adanchuli Rural Municipality</field>
+            <field name="code">66E</field>
+    </record>
+    <record id="res_country_municipality_Humla_Kharpunath" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Humla"/>
+            <field name="name">Kharpunath Rural Municipality</field>
+            <field name="code">66F</field>
+    </record>
+    <!-- **************************District 67**************************** -->
+    <record id="res_country_municipality_Rukum_Tribeni" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rukum_West"/>
+            <field name="name">Tribeni Rural Municipality</field>
+            <field name="code">67</field>
+    </record>
+    <record id="res_country_municipality_Rukum_Sani" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rukum_West"/>
+            <field name="name">Sani Bheri Rural Municipality</field>
+            <field name="code">67A</field>
+    </record>
+    <record id="res_country_municipality_Rukum_Banfikot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Rukum_West"/>
+            <field name="name">Banfikot Rural Municipality</field>
+            <field name="code">67B</field>
+    </record>
+    <!-- **************************District 68**************************** -->
+    <record id="res_country_municipality_Bajura_Gaumul" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajura"/>
+            <field name="name">Gaumul Rural Municipality</field>
+            <field name="code">68</field>
+    </record>
+    <record id="res_country_municipality_Bajura_Himali" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajura"/>
+            <field name="name">Himali Rural Municipality</field>
+            <field name="code">68A</field>
+    </record>
+    <record id="res_country_municipality_Bajura_Jagannath" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajura"/>
+            <field name="name">Jagannath Rural Municipality</field>
+            <field name="code">68B</field>
+    </record>
+    <record id="res_country_municipality_Bajura_Khaptad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajura"/>
+            <field name="name">Khaptad Chhededaha Rural Municipality</field>
+            <field name="code">68C</field>
+    </record>
+    <record id="res_country_municipality_Bajura_Swami" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajura"/>
+            <field name="name">Swami Kartik Khaapar Rural Municipality</field>
+            <field name="code">68D</field>
+    </record>
+
+    <!-- **************************District 69**************************** -->
+    <record id="res_country_municipality_Bajhang_Thalara" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Thalara Rural Municipality</field>
+            <field name="code">69</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Talkot" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Talkot Rural Municipality</field>
+            <field name="code">69A</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Surma" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Surma Rural Municipality</field>
+            <field name="code">69B</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_SaiPaal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">SaiPaal Rural Municipality</field>
+            <field name="code">69C</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Durgathali" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Durgathali Rural Municipality</field>
+            <field name="code">69D</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Bithadchir" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Bithadchir Rural Municipality</field>
+            <field name="code">69E</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Kedarseu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Kedarseu Rural Municipality</field>
+            <field name="code">69F</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Khaptadchhanna" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Khaptadchhanna Rural Municipality</field>
+            <field name="code">69G</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Chabispathivera" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Chabispathivera Rural Municipality</field>
+            <field name="code">69H</field>
+    </record>
+    <record id="res_country_municipality_Bajhang_Masta" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Bajhang"/>
+            <field name="name">Masta Rural Municipality</field>
+            <field name="code">69I</field>
+    </record>
+    <!-- **************************District 70**************************** -->
+    <record id="res_country_municipality_Achham_Dhakari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Achham"/>
+            <field name="name">Dhakari Rural Municipality</field>
+            <field name="code">70</field>
+    </record>
+    <record id="res_country_municipality_Achham_Mellekh" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Achham"/>
+            <field name="name">Mellekh Rural Municipality</field>
+            <field name="code">70A</field>
+    </record>
+    <record id="res_country_municipality_Achham_Chaurpati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Achham"/>
+            <field name="name">Chaurpati Rural Municipality</field>
+            <field name="code">70B</field>
+    </record>
+    <record id="res_country_municipality_Achham_Ramaroshan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Achham"/>
+            <field name="name">Ramaroshan Rural Municipality</field>
+            <field name="code">70C</field>
+    </record>
+    <record id="res_country_municipality_Achham_Turmakhad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Achham"/>
+            <field name="name">Turmakhad Rural Municipality	</field>
+            <field name="code">70D</field>
+    </record>
+    <record id="res_country_municipality_Achham_Bannigadhi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Achham"/>
+            <field name="name">Bannigadhi Jayagadh Rural Municipality</field>
+            <field name="code">70E</field>
+    </record>
+    <!-- **************************District 71**************************** -->
+    <record id="res_country_municipality_Doti_Sayal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">Sayal Rural Municipality</field>
+            <field name="code">71</field>
+    </record>
+    <record id="res_country_municipality_Doti_Adharsha" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">Adharsha Rural Municipality</field>
+            <field name="code">71A</field>
+    </record>
+    <record id="res_country_municipality_Doti_Jorayal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">Jorayal Rural Municipality</field>
+            <field name="code">71B</field>
+    </record>
+    <record id="res_country_municipality_Doti_Badikedar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">Badikedar Rural Municipality</field>
+            <field name="code">71C</field>
+    </record>
+    <record id="res_country_municipality_Doti_Purbichauki" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">Purbichauki Rural Municipality</field>
+            <field name="code">71D</field>
+    </record>
+    <record id="res_country_municipality_Doti_K" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">K I Singh Rural Municipality</field>
+            <field name="code">71E</field>
+    </record>
+    <record id="res_country_municipality_Doti_Bogtan" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Doti"/>
+            <field name="name">Bogtan Foodsil Rural Municipality</field>
+            <field name="code">71F</field>
+    </record>
+
+    <!-- **************************District 72**************************** -->
+    <record id="res_country_municipality_Kailali_Chure" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kailali"/>
+            <field name="name">Chure Rural Municipality</field>
+            <field name="code">72</field>
+    </record>
+    <record id="res_country_municipality_Kailali_Janaki" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kailali"/>
+            <field name="name">Janaki Rural Municipality</field>
+            <field name="code">72A</field>
+    </record>
+    <record id="res_country_municipality_Kailali_Kailari" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kailali"/>
+            <field name="name">Kailari Rural Municipality</field>
+            <field name="code">72B</field>
+    </record>
+    <record id="res_country_municipality_Kailali_Joshipur" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kailali"/>
+            <field name="name">Joshipur Rural Municipality</field>
+            <field name="code">72C</field>
+    </record>
+    <record id="res_country_municipality_Kailali_Mohanyal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kailali"/>
+            <field name="name">Mohanyal Rural Municipality</field>
+            <field name="code">72D</field>
+    </record>
+    <record id="res_country_municipality_Kailali_Bardagoriya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kailali"/>
+            <field name="name">Bardagoriya Rural Municipality</field>
+            <field name="code">72E</field>
+    </record>
+
+    <!-- **************************District 73**************************** -->
+    <record id="res_country_municipality_Kanchanpur_Beldandi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kanchanpur"/>
+            <field name="name">Beldandi Rural Municipality</field>
+            <field name="code">73</field>
+    </record>
+    <record id="res_country_municipality_Kanchanpur_Laljhadi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Kanchanpur"/>
+            <field name="name">Laljhadi Rural Municipality</field>
+            <field name="code">73A</field>
+    </record>
+
+    <!-- **************************District 74**************************** -->
+    <record id="res_country_municipality_Dadeldhura_Alital" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dadeldhura"/>
+            <field name="name">Alital Rural Municipality</field>
+            <field name="code">74</field>
+    </record>
+    <record id="res_country_municipality_Dadeldhura_Ajaymeru" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dadeldhura"/>
+            <field name="name">Ajaymeru Rural Municipality</field>
+            <field name="code">74A</field>
+    </record>
+    <record id="res_country_municipality_Dadeldhura_Bhageshwar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dadeldhura"/>
+            <field name="name">Bhageshwar Rural Municipality</field>
+            <field name="code">74B</field>
+    </record>
+    <record id="res_country_municipality_Dadeldhura_Nawadurga" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dadeldhura"/>
+            <field name="name">Nawadurga Rural Municipality</field>
+            <field name="code">74C</field>
+    </record>
+    <record id="res_country_municipality_Dadeldhura_Ganayapdhura" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Dadeldhura"/>
+            <field name="name">Ganayapdhura Rural Municipality</field>
+            <field name="code">74D</field>
+    </record>
+    <!-- **************************District 75**************************** -->
+    <record id="res_country_municipality_Baitadi_Sigas" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baitadi"/>
+            <field name="name">Sigas Rural Municipality</field>
+            <field name="code">75</field>
+    </record>
+    <record id="res_country_municipality_Baitadi_Shivanath" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baitadi"/>
+            <field name="name">Shivanath Rural Municipality</field>
+            <field name="code">75A</field>
+    </record>
+    <record id="res_country_municipality_Baitadi_Surnaya" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baitadi"/>
+            <field name="name">Surnaya Rural Municipality</field>
+            <field name="code">75B</field>
+    </record>
+    <record id="res_country_municipality_Baitadi_Dilasaini" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baitadi"/>
+            <field name="name">Dilasaini Rural Municipality</field>
+            <field name="code">75C</field>
+    </record>
+    <record id="res_country_municipality_Baitadi_Pancheshwar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baitadi"/>
+            <field name="name">Pancheshwar Rural Municipality</field>
+            <field name="code">75D</field>
+    </record>
+    <record id="res_country_municipality_Baitadi_Dogadakedar" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Baitadi"/>
+            <field name="name">Dogadakedar Rural Municipality</field>
+            <field name="code">75E</field>
+    </record>
+    <!-- **************************District 76**************************** -->
+    <record id="res_country_municipality_Darchula_Lekam" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Lekam Rural Municipality</field>
+            <field name="code">76</field>
+    </record>
+    <record id="res_country_municipality_Darchula_Naugad" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Naugad Rural Municipality</field>
+            <field name="code">76A</field>
+    </record>
+    <record id="res_country_municipality_Darchula_Byas" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Byas Rural Municipality</field>
+            <field name="code">76B</field>
+    </record>
+    <record id="res_country_municipality_Darchula_Dunhu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Dunhu Rural Municipality</field>
+            <field name="code">76C</field>
+    </record>
+    <record id="res_country_municipality_Darchula_Marma" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Marma Rural Municipality</field>
+            <field name="code">76D</field>
+    </record>
+    <record id="res_country_municipality_Darchula_Apihimal" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Apihimal Rural Municipality</field>
+            <field name="code">76E</field>
+    </record>
+    <record id="res_country_municipality_Darchula_Malikaarjun" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Darchula"/>
+            <field name="name">Malikaarjun Rural Municipality</field>
+            <field name="code">76F</field>
+    </record>
+<!-- **************************District 77**************************** -->
+    <record id="res_country_municipality_Ramechhap_Likhu" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ramechhap"/>
+            <field name="name">Likhu Tamakoshi Rural Municipality</field>
+            <field name="code">77</field>
+    </record>
+    <record id="res_country_municipality_Ramechhap_Sunapati" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ramechhap"/>
+            <field name="name">Sunapati Rural Municipality</field>
+            <field name="code">77A</field>
+    </record>
+    <record id="res_country_municipality_Ramechhap_Doramba" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ramechhap"/>
+            <field name="name">Doramba Rural Municipality</field>
+            <field name="code">77B</field>
+    </record>
+    <record id="res_country_municipality_Ramechhap_Umakunda" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ramechhap"/>
+            <field name="name">Umakunda Rural Municipality</field>
+            <field name="code">77C</field>
+    </record>
+    <record id="res_country_municipality_Ramechhap_Khadadevi" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ramechhap"/>
+            <field name="name">Khadadevi Rural Municipality</field>
+            <field name="code">77D</field>
+    </record>
+    <record id="res_country_municipality_Ramechhap_Gokulganga" model="res.country.rural_municipality">
+            <field name="district_id" ref="res_country_district_Ramechhap"/>
+            <field name="name">Gokulganga Rural Municipality</field>
+            <field name="code">77E</field>
+    </record>
+</odoo>

@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+        <!-- **************************District 1**************************** -->
+        <record id="res_country_municipality_Taplejung" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Taplejung"/>
+                <field name="name">Taplejung</field>
+                <field name="code">1</field>
+        </record>
+        <!-- dis2 -->
+        <record id="res_country_municipality_Sankhuwasabha" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+                <field name="name">Sadananda</field>
+                <field name="code">2</field>
+        </record>
+        <record id="res_country_municipality_Sankhuwasabha_Dharmadevi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+                <field name="name">Dharmadevi </field>
+                <field name="code">2A</field>
+        </record>
+        <record id="res_country_municipality_Sankhuwasabha_Madi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+                <field name="name">	Madi </field>
+                <field name="code">2B</field>
+        </record>
+        <record id="res_country_municipality_Sankhuwasabha_Panchakhapan" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+                <field name="name">	Panchakhapan </field>
+                <field name="code">2C</field>
+        </record>
+
+        <record id="res_country_municipality_Sankhuwasabha_Chainpur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sankhuwasabha"/>
+                <field name="name">	Chainpur </field>
+                <field name="code">2D</field>
+        </record>
+
+
+
+
+        <!-- **************************District 3**************************** -->
+        <record id="res_country_municipality_Solukhumbu" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Solukhumbu"/>
+                <field name="name">Solududhakunda</field>
+                <field name="code">3</field>
+        </record>
+        <!-- dist4 -->
+
+        <record id="res_country_municipality_Okhaldhunga" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Okhaldhunga"/>
+                <field name="name">Siddhicharan</field>
+                <field name="code">4</field>
+        </record>
+        <!-- **************************District 5**************************** -->
+        <record id="res_country_municipality_Bhojpur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bhojpur"/>
+                <field name="name">	Shadananda </field>
+                <field name="code">5</field>
+        </record>
+        <record id="res_country_municipality_Bhojpur_Bhojpur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bhojpur"/>
+                <field name="name">	Bhojpur </field>
+                <field name="code">5A</field>
+        </record>
+        <!-- dist6 -->
+        <record id="res_country_municipality_Dhankuta" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhankuta"/>
+                <field name="name">Pakhribas</field>
+                <field name="code">6</field>
+        </record>
+        <record id="res_country_municipality_Dhankuta_Mahalaxmi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhankuta"/>
+                <field name="name">Mahalaxmi</field>
+                <field name="code">6A</field>
+        </record>
+        <record id="res_country_municipality_Dhankuta_Dhankuta" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhankuta"/>
+                <field name="name">Dhankuta</field>
+                <field name="code">6B</field>
+        </record>
+        <!-- dist7 -->
+        <record id="res_country_municipality_Terhathum" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Terhathum"/>
+                <field name="name">Laligurans</field>
+                <field name="code">7</field>
+        </record>
+        <record id="res_country_municipality_Terhathum_Myanglung" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Terhathum"/>
+                <field name="name">Myanglung</field>
+                <field name="code">7A</field>
+        </record>
+        <!-- dit8 -->
+        <record id="res_country_municipality_Panchthar" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Panchthar"/>
+                <field name="name">Phidim</field>
+                <field name="code">8</field>
+        </record>
+        <!-- dist9 -->
+        <record id="res_country_municipality_Ilam" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Ilam"/>
+                <field name="name">Illam</field>
+                <field name="code">9</field>
+        </record>
+        <record id="res_country_municipality_Ilam_Mai" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Ilam"/>
+                <field name="name">Mai</field>
+                <field name="code">9A</field>
+        </record>
+        <record id="res_country_municipality_Ilam_Deumai" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Ilam"/>
+                <field name="name">Deumai</field>
+                <field name="code">9B</field>
+        </record>
+        <record id="res_country_municipality_Ilam_Suryodaya" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Ilam"/>
+                <field name="name">Suryodaya</field>
+                <field name="code">9C</field>
+        </record>
+
+
+
+
+        <!-- **************************District 10**************************** -->
+        <record id="res_country_municipality_Jhapa" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Bhadrapur</field>
+                <field name="code">10</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Shivasataxi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Shivasataxi</field>
+                <field name="code">10A</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Kankai" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Kankai</field>
+                <field name="code">10B</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Birtamod" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Birtamod</field>
+                <field name="code">10C</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Mechinagar" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Mechinagar</field>
+                <field name="code">10D</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Damak" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Damak</field>
+                <field name="code">10E</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Arjundhara" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Arjundhara</field>
+                <field name="code">10F</field>
+        </record>
+        <record id="res_country_municipality_Jhapa_Gauradhaha" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jhapa"/>
+                <field name="name">Gauradhaha</field>
+                <field name="code">10G</field>
+        </record>
+
+
+        <!-- **************************District 11**************************** -->
+        <record id="res_country_municipality_Morang" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Letang</field>
+                <field name="code">11</field>
+        </record>
+        <record id="res_country_municipality_Morang_Sunwarshi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Sunwarshi</field>
+                <field name="code">11A</field>
+        </record>
+        <record id="res_country_municipality_Morang_Rangeli" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Rangeli</field>
+                <field name="code">11B</field>
+        </record>
+        <record id="res_country_municipality_Morang_Patahrishanishchare" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Patahrishanishchare</field>
+                <field name="code">11C</field>
+        </record>
+        <record id="res_country_municipality_Morang_Uralabari" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Uralabari</field>
+                <field name="code">11D</field>
+        </record>
+        <record id="res_country_municipality_Morang_Belbari" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Belbari</field>
+                <field name="code">11E</field>
+        </record>
+        <record id="res_country_municipality_Morang_Sundarharaicha" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Sundarharaicha</field>
+                <field name="code">11F</field>
+        </record>
+        <record id="res_country_municipality_Morang_Ratuwamai" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Morang"/>
+                <field name="name">Ratuwamai</field>
+                <field name="code">11G</field>
+        </record>
+
+        <!-- **************************District 12**************************** -->
+        <record id="res_country_municipality_Sunsari" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sunsari"/>
+                <field name="name">Ramdhuni</field>
+                <field name="code">12</field>
+        </record>
+        <record id="res_country_municipality_Sunsari_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sunsari"/>
+                <field name="name">Barahchhetra</field>
+                <field name="code">12A</field>
+        </record>
+        <record id="res_country_municipality_Sunsari_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sunsari"/>
+                <field name="name">Duhabi</field>
+                <field name="code">12B</field>
+        </record>
+
+        <record id="res_country_municipality_Sunsari_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sunsari"/>
+                <field name="name">Inaruwa</field>
+                <field name="code">12C</field>
+        </record>
+
+
+        <!-- **************************District 13**************************** -->
+        <record id="res_country_municipality_Udayapur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Udayapur"/>
+                <field name="name">	Katari</field>
+                <field name="code">13</field>
+        </record>
+        <record id="res_country_municipality_Udayapur_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Udayapur"/>
+                <field name="name">	Chaudandigadhi</field>
+                <field name="code">13A</field>
+        </record>
+        <record id="res_country_municipality_Udayapur_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Udayapur"/>
+                <field name="name">	Triyuga</field>
+                <field name="code">13B</field>
+        </record>
+        <record id="res_country_municipality_Udayapur_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Udayapur"/>
+                <field name="name">	Belaka</field>
+                <field name="code">13C</field>
+        </record>
+        <!-- dist14 -->
+        <record id="res_country_municipality_Saptari" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Hanumannagar</field>
+                <field name="code">14</field>
+        </record>
+        <record id="res_country_municipality_Saptari_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Kanchanrup</field>
+                <field name="code">14C</field>
+        </record>
+        <record id="res_country_municipality_Saptari_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Rajbiraj</field>
+                <field name="code">14A</field>
+        </record>
+        <record id="res_country_municipality_Saptari_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Khadak</field>
+                <field name="code">14B</field>
+        </record>
+        <record id="res_country_municipality_Saptari_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Dakneshwori</field>
+                <field name="code">14D</field>
+        </record>
+        <record id="res_country_municipality_Saptari_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Saptakoshi</field>
+                <field name="code">14E</field>
+        </record>
+        <record id="res_country_municipality_Saptari_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Surunga</field>
+                <field name="code">14F</field>
+        </record>
+        <record id="res_country_municipality_Saptari_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Shambhunath</field>
+                <field name="code">14G</field>
+        </record>
+        <record id="res_country_municipality_Saptari_8" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Saptari"/>
+                <field name="name">	Bode Barsain</field>
+                <field name="code">14H</field>
+        </record>
+        <!-- dist15 -->
+        <record id="res_country_municipality_Siraha" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Mirchaiya</field>
+                <field name="code">15I</field>
+        </record>
+        <record id="res_country_municipality_Siraha_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Lahan</field>
+                <field name="code">15H</field>
+        </record>
+        <record id="res_country_municipality_Siraha_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Siraha</field>
+                <field name="code">15G</field>
+        </record>
+        <record id="res_country_municipality_Siraha_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Dhangadhimai</field>
+                <field name="code">15F</field>
+        </record>
+        <record id="res_country_municipality_Siraha_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Kalyanpur</field>
+                <field name="code">15D</field>
+        </record>
+        <record id="res_country_municipality_Siraha_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Karjanha</field>
+                <field name="code">15C</field>
+        </record>
+        <record id="res_country_municipality_Siraha_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Golbazar</field>
+                <field name="code">15B</field>
+        </record>
+        <record id="res_country_municipality_Siraha_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Siraha"/>
+                <field name="name">	Sukhipur</field>
+                <field name="code">15A</field>
+        </record>
+
+
+
+        <!-- **************************District 15**************************** -->
+        <record id="res_country_municipality_res_country_district_Bara" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Kolhabi</field>
+                <field name="code">16</field>
+        </record>
+        <!-- **************************District 16**************************** -->
+        <record id="res_country_municipality_Dhanusa" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Ganeshman</field>
+                <field name="code">17L</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Mithila Bihari </field>
+                <field name="code">17K</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Kamala</field>
+                <field name="code">17J</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Nagarain</field>
+                <field name="code">17I</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Ganeshman</field>
+                <field name="code">17H</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Mithila</field>
+                <field name="code">17G</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Dhanusadham</field>
+                <field name="code">17F</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Bideha</field>
+                <field name="code">17E</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_8" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Sabaila</field>
+                <field name="code">17D</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_9" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Hansapur</field>
+                <field name="code">17C</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_10" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Janakpurdham Sub-Metropolitian City</field>
+                <field name="code">17B</field>
+        </record>
+        <record id="res_country_municipality_Dhanusa_11" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhanusa"/>
+                <field name="name">Sahidnagar</field>
+                <field name="code">17A</field>
+        </record>
+
+        <!-- **************************District 18**************************** -->
+
+        <record id="res_country_municipality_Mahottari" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Gaushala</field>
+                <field name="code">18H</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Ramgopalpur</field>
+                <field name="code">18G</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Aurahi</field>
+                <field name="code">18F</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Bardibas</field>
+                <field name="code">18E</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Matihani</field>
+                <field name="code">18D</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Manra</field>
+                <field name="code">18C</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Balwa</field>
+                <field name="code">18B</field>
+        </record>
+        <record id="res_country_municipality_Mahottari_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mahottari"/>
+                <field name="name">Jaleswor</field>
+                <field name="code">18A</field>
+        </record>
+        <!-- dist19 -->
+        <record id="res_country_municipality_Sarlahi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Barahathawa</field>
+                <field name="code">19K</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Haripur</field>
+                <field name="code">19J</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Ishworpur</field>
+                <field name="code">19I</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Lalbandi</field>
+                <field name="code">19H</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Malangawa</field>
+                <field name="code">19G</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Kabilasi</field>
+                <field name="code">19F</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Bagmati</field>
+                <field name="code">19E</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Hariwan</field>
+                <field name="code">19D</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_8" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Balara</field>
+                <field name="code">19C</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_9" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Haripurwa</field>
+                <field name="code">19B</field>
+        </record>
+        <record id="res_country_municipality_Sarlahi_10" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sarlahi"/>
+                <field name="name">Godaita</field>
+                <field name="code">19A</field>
+        </record>
+        <!-- dist20 -->
+        <record id="res_country_municipality_Rautahat" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Katahariya</field>
+                <field name="code">20P</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Maulapur</field>
+                <field name="code">20O</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Madhav Narayan</field>
+                <field name="code">20N</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Gaur</field>
+                <field name="code">20M</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Gujara</field>
+                <field name="code">20L</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Garuda</field>
+                <field name="code">20K</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Ishanath</field>
+                <field name="code">20J</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Chandrapur</field>
+                <field name="code">20I</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_8" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Dewahhi Gonahi</field>
+                <field name="code">20H</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_9" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Brindaban</field>
+                <field name="code">20G</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_10" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Rajpur</field>
+                <field name="code">20F</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_11" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Rajdevi</field>
+                <field name="code">20E</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_12" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Gadhimai</field>
+                <field name="code">20D</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_13" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Phatuwa Bijayapur</field>
+                <field name="code">20C</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_14" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Baudhimai</field>
+                <field name="code">20B</field>
+        </record>
+        <record id="res_country_municipality_Rautahat_15" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rautahat"/>
+                <field name="name">Paroha</field>
+                <field name="code">20A</field>
+        </record>
+        <!-- dist21 -->
+        <record id="res_country_municipality_Bara" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Pacharauta</field>
+                <field name="code">21E</field>
+        </record>
+        <record id="res_country_municipality_Bara_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Nijgadh</field>
+                <field name="code">21D</field>
+        </record>
+        <record id="res_country_municipality_Bara_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Simraungadh</field>
+                <field name="code">21C</field>
+        </record>
+        <record id="res_country_municipality_Bara_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Mahagadhimai</field>
+                <field name="code">21B</field>
+        </record>
+        <record id="res_country_municipality_Bara_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Kolhabi</field>
+                <field name="code">21A</field>
+        </record>
+        <!-- dist22 -->
+        <record id="res_country_municipality_Bara" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Pacharauta</field>
+                <field name="code">22E</field>
+        </record>
+        <record id="res_country_municipality_Bara_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Nijgadh</field>
+                <field name="code">22D</field>
+        </record>
+        <record id="res_country_municipality_Bara_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Simraungadh</field>
+                <field name="code">22C</field>
+        </record>
+        <record id="res_country_municipality_Bara_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Mahagadhimai</field>
+                <field name="code">22B</field>
+        </record>
+        <record id="res_country_municipality_Bara_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bara"/>
+                <field name="name">Kolhabi</field>
+                <field name="code">22A</field>
+        </record>
+        <!-- dist 23-->
+        <record id="res_country_municipality_Dolakha" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dolakha"/>
+                <field name="name">Jiri</field>
+                <field name="code">23E</field>
+        </record>
+        <record id="res_country_municipality_Dolakha_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dolakha"/>
+                <field name="name">Bhimeshwor</field>
+                <field name="code">23D</field>
+        </record>
+        <!-- dist24-->
+        <record id="res_country_municipality_Sindhupalchok" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+                <field name="name">Chautara SangachokGadhi</field>
+                <field name="code">24E</field>
+        </record>
+        <record id="res_country_municipality_Sindhupalchok_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+                <field name="name">Barhabise</field>
+                <field name="code">24D</field>
+        </record>
+        <record id="res_country_municipality_Sindhupalchok_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sindhupalchok"/>
+                <field name="name">Melamchi</field>
+                <field name="code">24C</field>
+        </record>
+        <!-- dist24 -->
+        <record id="res_country_municipality_Dhading" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhading"/>
+                <field name="name">Nilakantha</field>
+                <field name="code">25E</field>
+        </record>
+        <record id="res_country_municipality_Dhading_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dhading"/>
+                <field name="name">Dhunibesi</field>
+                <field name="code">25D</field>
+        </record>
+        <!-- dist25 -->
+        <record id="res_country_municipality_Nuwakot" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Nuwakot"/>
+                <field name="name">Belkotgadhi</field>
+                <field name="code">26E</field>
+        </record>
+        <record id="res_country_municipality_Nuwakot_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Nuwakot"/>
+                <field name="name">Bidur</field>
+                <field name="code">26D</field>
+        </record>
+        <!-- dist26 -->
+        <record id="res_country_municipality_Kathmandu" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Nagarjun</field>
+                <field name="code">26P</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Kageshwori Manahora</field>
+                <field name="code">26O</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Dakshinkali</field>
+                <field name="code">26N</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Budhanilakantha</field>
+                <field name="code">26M</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Tarakeshwor</field>
+                <field name="code">26L</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Kathmandu Metropolitian City</field>
+                <field name="code">26K</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Tokha</field>
+                <field name="code">26J</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_7" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Chandragiri</field>
+                <field name="code">26I</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_8" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Gokarneshwor</field>
+                <field name="code">26H</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_9" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Kirtipur</field>
+                <field name="code">26G</field>
+        </record>
+        <record id="res_country_municipality_Kathmandu_10" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kathmandu"/>
+                <field name="name">Shankharapur</field>
+                <field name="code">26A</field>
+        </record>
+     
+        <!-- dist27 -->
+        <record id="res_country_municipality_Bhaktapur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bhaktapur"/>
+                <field name="name">Changunarayan</field>
+                <field name="code">27P</field>
+        </record>
+        <record id="res_country_municipality_Bhaktapur_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bhaktapur"/>
+                <field name="name">Suryabinayak</field>
+                <field name="code">27O</field>
+        </record>
+        <record id="res_country_municipality_Bhaktapur_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bhaktapur"/>
+                <field name="name">Bhaktapur</field>
+                <field name="code">27N</field>
+        </record>
+        <record id="res_country_municipality_Bhaktapur_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bhaktapur"/>
+                <field name="name">Madhyapur Thimi</field>
+                <field name="code">27L</field>
+        </record>
+        <!-- dist28 -->
+        <record id="res_country_municipality_Lalitpur_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lalitpur"/>
+                <field name="name">Lalitpur Metropolitian City</field>
+                <field name="code">28M</field>
+        </record>
+        <record id="res_country_municipality_Lalitpur_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lalitpur"/>
+                <field name="name">Mahalaxmi</field>
+                <field name="code">28L</field>
+        </record>
+        <record id="res_country_municipality_Lalitpur_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lalitpur"/>
+                <field name="name">Lamkichuha</field>
+                <field name="code">28K</field>
+        </record>
+        <!-- dist29 -->
+        <record id="res_country_municipality_Kavrepalanchok" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+                <field name="name">Banepa</field>
+                <field name="code">29P</field>
+        </record>
+        <record id="res_country_municipality_Kavrepalanchok_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+                <field name="name">Mandandeupur</field>
+                <field name="code">29O</field>
+        </record>
+        <record id="res_country_municipality_Kavrepalanchok_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+                <field name="name">Dhulikhel</field>
+                <field name="code">29N</field>
+        </record>
+        <record id="res_country_municipality_Kavrepalanchok_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+                <field name="name">Panauti</field>
+                <field name="code">29M</field>
+        </record>
+        <record id="res_country_municipality_Kavrepalanchok_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+                <field name="name">Namobuddha</field>
+                <field name="code">29L</field>
+        </record>
+        <record id="res_country_municipality_Kavrepalanchok_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kavrepalanchok"/>
+                <field name="name">Panchkhal</field>
+                <field name="code">29K</field>
+        </record>
+        <!-- dist30 -->
+        <record id="res_country_municipality_Ramechhap" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Ramechhap"/>
+                <field name="name">Manthali</field>
+                <field name="code">30P</field>
+        </record>
+        <record id="res_country_municipality_Ramechhap_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Ramechhap"/>
+                <field name="name">Ramechhap</field>
+                <field name="code">30O</field>
+        </record>
+        <!-- dist31 -->
+        <record id="res_country_municipality_Sindhuli" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sindhuli"/>
+                <field name="name">Dudhouli</field>
+                <field name="code">30P</field>
+        </record>
+        <record id="res_country_municipality_Sindhuli_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Sindhuli"/>
+                <field name="name">Kamalamai</field>
+                <field name="code">30O</field>
+        </record>
+        <!-- dist32 -->
+        <record id="res_country_municipality_Makawanpur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Makawanpur"/>
+                <field name="name">Hetauda Sub-Metropolitian City</field>
+                <field name="code">31P</field>
+        </record>
+        <record id="res_country_municipality_Makawanpur_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Makawanpur"/>
+                <field name="name">Thaha</field>
+                <field name="code">31O</field>
+        </record>
+        <!-- dist33 -->
+        <record id="res_country_municipality_Chitwan" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Chitwan"/>
+                <field name="name">Bharatpur Metropolitian City</field>
+                <field name="code">33P</field>
+        </record>
+        <record id="res_country_municipality_Chitwan_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Chitwan"/>
+                <field name="name">Kalika</field>
+                <field name="code">33O</field>
+        </record>
+        <record id="res_country_municipality_Chitwan_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Chitwan"/>
+                <field name="name">Khairahani</field>
+                <field name="code">33N</field>
+        </record>
+        <record id="res_country_municipality_Chitwan_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Chitwan"/>
+                <field name="name">Madi</field>
+                <field name="code">33M</field>
+        </record>
+        <record id="res_country_municipality_Chitwan_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Chitwan"/>
+                <field name="name">Rapti</field>
+                <field name="code">33L</field>
+        </record>
+        <record id="res_country_municipality_Chitwan_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Chitwan"/>
+                <field name="name">Ratnanagar</field>
+                <field name="code">33K</field>
+        </record>
+        <!-- dist34 -->
+        <record id="res_country_municipality_Gorkha" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Gorkha"/>
+                <field name="name">Palungtar</field>
+                <field name="code">34P</field>
+        </record>
+        <record id="res_country_municipality_Gorkha_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Gorkha"/>
+                <field name="name">Gorkha</field>
+                <field name="code">34O</field>
+        </record>
+        <!-- dist35 -->
+        <record id="res_country_municipality_Myagdi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Myagdi"/>
+                <field name="name">Beni</field>
+                <field name="code">35P</field>
+        </record>
+        <!-- dist36 -->
+        <record id="res_country_municipality_Kaski" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kaski"/>
+                <field name="name">Pokhara Metropolitian City</field>
+                <field name="code">36P</field>
+        </record>
+        <!-- dist37 -->
+        <record id="res_country_municipality_Lamjung" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lamjung"/>
+                <field name="name">Besishahar</field>
+                <field name="code">37P</field>
+        </record>
+        <record id="res_country_municipality_Lamjung_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lamjung"/>
+                <field name="name">Sundarbazar</field>
+                <field name="code">37O</field>
+        </record>
+        <record id="res_country_municipality_Lamjung_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lamjung"/>
+                <field name="name">Rainas</field>
+                <field name="code">37N</field>
+        </record>
+        <record id="res_country_municipality_Lamjung_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Lamjung"/>
+                <field name="name">MadhyaNepal</field>
+                <field name="code">37M</field>
+        </record>
+        <!-- dist38 -->
+        <record id="res_country_municipality_Tanahu" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Tanahu"/>
+                <field name="name">Byas</field>
+                <field name="code">38P</field>
+        </record>
+        <record id="res_country_municipality_Tanahu_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Tanahu"/>
+                <field name="name">Devchuli</field>
+                <field name="code">38O</field>
+        </record>
+        <record id="res_country_municipality_Tanahu_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Tanahu"/>
+                <field name="name">Bhimad</field>
+                <field name="code">38N</field>
+        </record>
+        <record id="res_country_municipality_Tanahu_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Tanahu"/>
+                <field name="name">Bhanu</field>
+                <field name="code">38M</field>
+        </record>
+        <!-- dist39 -->
+        <record id="res_country_municipality_Nawalpur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+                <field name="name">Madhyabindu</field>
+                <field name="code">39P</field>
+        </record>
+        <record id="res_country_municipality_Nawalpur_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+                <field name="name">Devchuli</field>
+                <field name="code">39O</field>
+        </record>
+        <record id="res_country_municipality_Nawalpur_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+                <field name="name">Gaidakot</field>
+                <field name="code">39N</field>
+        </record>
+        <record id="res_country_municipality_Nawalpur_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Nawalparasi_East"/>
+                <field name="name">Kawasoti</field>
+                <field name="code">39M</field>
+        </record>
+        <!-- dist40 -->
+        <record id="res_country_municipality_Syangja" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Syangja"/>
+                <field name="name">Putalibazar</field>
+                <field name="code">40P</field>
+        </record>
+        <record id="res_country_municipality_Syangja_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Syangja"/>
+                <field name="name">Bhirkot</field>
+                <field name="code">40O</field>
+        </record>
+        <record id="res_country_municipality_Syangja_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Syangja"/>
+                <field name="name">Galyang</field>
+                <field name="code">40N</field>
+        </record>
+        <record id="res_country_municipality_Syangja_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Syangja"/>
+                <field name="name">Chapakot</field>
+                <field name="code">40M</field>
+        </record>
+        <record id="res_country_municipality_Syangja_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Syangja"/>
+                <field name="name">Waling</field>
+                <field name="code">40L</field>
+        </record>
+        <!-- dist41 -->
+        <record id="res_country_municipality_Parbat" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Parbat"/>
+                <field name="name">Kushma</field>
+                <field name="code">41P</field>
+        </record>
+        <record id="res_country_municipality_Parbat_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Parbat"/>
+                <field name="name">Phalebas</field>
+                <field name="code">41O</field>
+        </record>
+        <!-- dist42 -->
+        <record id="res_country_municipality_Baglung" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baglung"/>
+                <field name="name">Jaimuni</field>
+                <field name="code">42P</field>
+        </record>
+        <record id="res_country_municipality_Baglung_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baglung"/>
+                <field name="name">Baglung</field>
+                <field name="code">42O</field>
+        </record>
+        <record id="res_country_municipality_Baglung_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baglung"/>
+                <field name="name">Galkot</field>
+                <field name="code">42N</field>
+        </record>
+        <record id="res_country_municipality_Baglung_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baglung"/>
+                <field name="name">Dhorpatan</field>
+                <field name="code">42M</field>
+        </record>
+        <!-- dist43 -->
+        <record id="res_country_municipality_Rolpa" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rolpa"/>
+                <field name="name">Rolpa</field>
+                <field name="code">43P</field>
+        </record>
+        <!-- dist44 -->
+        <record id="res_country_municipality_Pyuthan" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Pyuthan"/>
+                <field name="name">Pyuthan</field>
+                <field name="code">44P</field>
+        </record>
+        <record id="res_country_municipality_Pyuthan_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Pyuthan"/>
+                <field name="name">Sworgadwary</field>
+                <field name="code">44O</field>
+        </record>
+        <!-- dist45 -->
+        <record id="res_country_municipality_Gulmi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Gulmi"/>
+                <field name="name">Resunga</field>
+                <field name="code">45P</field>
+        </record>
+        <record id="res_country_municipality_Gulmi_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Gulmi"/>
+                <field name="name">Musikot</field>
+                <field name="code">45O</field>
+        </record>
+        <!-- dist46 -->
+        <record id="res_country_municipality_Arghakhanchi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Arghakhanchi"/>
+                <field name="name">Bhumekasthan</field>
+                <field name="code">46P</field>
+        </record>
+        <record id="res_country_municipality_Arghakhanchi_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Arghakhanchi"/>
+                <field name="name">Sitganga</field>
+                <field name="code">46O</field>
+        </record>
+        <record id="res_country_municipality_Arghakhanchi_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Arghakhanchi"/>
+                <field name="name">Sandhikharka</field>
+                <field name="code">46N</field>
+        </record>
+        <!-- dist47 -->
+        <record id="res_country_municipality_Palpa" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Palpa"/>
+                <field name="name">Tansen</field>
+                <field name="code">47P</field>
+        </record>
+        <record id="res_country_municipality_Palpa_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Palpa"/>
+                <field name="name">Rampur</field>
+                <field name="code">47O</field>
+        </record>
+        <!-- dist48 -->
+        <record id="res_country_municipality_Rupandehi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rupandehi"/>
+                <field name="name">Butwal Sub-Metropolitian City</field>
+                <field name="code">48P</field>
+        </record>
+        <record id="res_country_municipality_Rupandehi_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rupandehi"/>
+                <field name="name">Lumbini Sanskritik</field>
+                <field name="code">48O</field>
+        </record>
+        <record id="res_country_municipality_Rupandehi_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rupandehi"/>
+                <field name="name">Devdaha</field>
+                <field name="code">48N</field>
+        </record>
+        <record id="res_country_municipality_Rupandehi_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rupandehi"/>
+                <field name="name">Sainamaina</field>
+                <field name="code">48M</field>
+        </record>
+        <record id="res_country_municipality_Rupandehi_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rupandehi"/>
+                <field name="name">Siddharthanagar</field>
+                <field name="code">48L</field>
+        </record>
+        <record id="res_country_municipality_Rupandehi_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rupandehi"/>
+                <field name="name">Tillotama</field>
+                <field name="code">48K</field>
+        </record>
+        <!-- dist49 -->
+        <record id="res_country_municipality_Kapilvastu" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kapilvastu"/>
+                <field name="name">Shivaraj</field>
+                <field name="code">49P</field>
+        </record>
+        <record id="res_country_municipality_Kapilvastu_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kapilvastu"/>
+                <field name="name">Kapilbastu</field>
+                <field name="code">49O</field>
+        </record>
+        <record id="res_country_municipality_Kapilvastu_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kapilvastu"/>
+                <field name="name">Buddhabhumi</field>
+                <field name="code">49N</field>
+        </record>
+        <record id="res_country_municipality_Kapilvastu_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kapilvastu"/>
+                <field name="name">Maharajgunj</field>
+                <field name="code">49M</field>
+        </record>
+        <record id="res_country_municipality_Kapilvastu_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kapilvastu"/>
+                <field name="name">Maharajgunj</field>
+                <field name="code">49L</field>
+        </record>
+        <record id="res_country_municipality_Kapilvastu_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kapilvastu"/>
+                <field name="name">Krishnanagar</field>
+                <field name="code">49K</field>
+        </record>
+        <!-- dist50 -->
+        <record id="res_country_municipality_Dang" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dang"/>
+                <field name="name">Tulsipur Sub-Metropolitian City</field>
+                <field name="code">48P</field>
+        </record>
+        <record id="res_country_municipality_Dang_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dang"/>
+                <field name="name">Ghorahi Sub-Metropolitian City</field>
+                <field name="code">48O</field>
+        </record>
+        <record id="res_country_municipality_Dang_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dang"/>
+                <field name="name">Lamahi</field>
+                <field name="code">48N</field>
+        </record>
+        <!-- dist51 -->
+         <record id="res_country_municipality_Banke" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Banke"/>
+                <field name="name">Kohalpur</field>
+                <field name="code">51P</field>
+        </record>
+        <record id="res_country_municipality_Banke_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Banke"/>
+                <field name="name">Nepalgunj Sub-Metropolitian City</field>
+                <field name="code">51O</field>
+        </record>
+        <!-- dist52 -->
+        <record id="res_country_municipality_Bardiya" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bardiya"/>
+                <field name="name">Thakurbaba</field>
+                <field name="code">52P</field>
+        </record>
+        <record id="res_country_municipality_Bardiya_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bardiya"/>
+                <field name="name">Bansagadhi</field>
+                <field name="code">52O</field>
+        </record>
+        <record id="res_country_municipality_Bardiya_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bardiya"/>
+                <field name="name">Barbardiya</field>
+                <field name="code">52N</field>
+        </record>
+        <record id="res_country_municipality_Bardiya_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bardiya"/>
+                <field name="name">Rajapur</field>
+                <field name="code">52M</field>
+        </record>
+        <record id="res_country_municipality_Bardiya_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bardiya"/>
+                <field name="name">Madhuwan</field>
+                <field name="code">52L</field>
+        </record>
+        <record id="res_country_municipality_Bardiya_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bardiya"/>
+                <field name="name">Gulariya</field>
+                <field name="code">52K</field>
+        </record>
+        <!-- dist53 -->
+        <record id="res_country_municipality_Dolpa" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dolpa"/>
+                <field name="name">Tripurasundari</field>
+                <field name="code">53P</field>
+        </record>
+        <record id="res_country_municipality_Dolpa_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dolpa"/>
+                <field name="name">Thuli Bheri</field>
+                <field name="code">53O</field>
+        </record>
+        <!-- dist54 -->
+        <record id="res_country_municipality_Mugu" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Mugu"/>
+                <field name="name">Chhayanath Rara</field>
+                <field name="code">54P</field>
+        </record>
+        <!-- dist55 -->
+        <record id="res_country_municipality_Jumla" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jumla"/>
+                <field name="name">Chandannath</field>
+                <field name="code">55P</field>
+        </record>
+        <!-- dist56 -->
+        <record id="res_country_municipality_Kalikot" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kalikot"/>
+                <field name="name">Khandachakra</field>
+                <field name="code">56P</field>
+        </record>
+        <record id="res_country_municipality_Kalikot_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kalikot"/>
+                <field name="name">Raskot</field>
+                <field name="code">56O</field>
+        </record>
+        <record id="res_country_municipality_Kalikot_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kalikot"/>
+                <field name="name">Tilagufa</field>
+                <field name="code">56N</field>
+        </record>
+        <!-- dist57 -->
+        <record id="res_country_municipality_Dailekh" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dailekh"/>
+                <field name="name">Aathabis</field>
+                <field name="code">57P</field>
+        </record>
+        <record id="res_country_municipality_Dailekh_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dailekh"/>
+                <field name="name">Dullu</field>
+                <field name="code">57O</field>
+        </record>
+        <record id="res_country_municipality_Dailekh_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dailekh"/>
+                <field name="name">Chamunda Bindrasaini</field>
+                <field name="code">57N</field>
+        </record>
+        <record id="res_country_municipality_Dailekh_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dailekh"/>
+                <field name="name">Narayan</field>
+                <field name="code">57M</field>
+        </record>
+        <!-- dist58 -->
+        <record id="res_country_municipality_Jajarkot" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jajarkot"/>
+                <field name="name">Nalagad</field>
+                <field name="code">58P</field>
+        </record>
+        <record id="res_country_municipality_Jajarkot_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jajarkot"/>
+                <field name="name">Bheri</field>
+                <field name="code">58O</field>
+        </record>
+        <record id="res_country_municipality_Jajarkot_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Jajarkot"/>
+                <field name="name">Chhedagad</field>
+                <field name="code">58N</field>
+        </record>
+        <!-- dist59 -->
+        <record id="res_country_municipality_Rukum" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rukum_West"/>
+                <field name="name">Aathbiskot</field>
+                <field name="code">59P</field>
+        </record>
+        <record id="res_country_municipality_Rukum_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rukum_West"/>
+                <field name="name">Chaurjahari</field>
+                <field name="code">59O</field>
+        </record>
+        <record id="res_country_municipality_Rukum_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Rukum_West"/>
+                <field name="name">Musikot</field>
+                <field name="code">59N</field>
+        </record>
+        <!-- dist60 -->
+        <record id="res_country_municipality_Salyan" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Salyan"/>
+                <field name="name">Sharada</field>
+                <field name="code">60P</field>
+        </record>
+        <record id="res_country_municipality_Salyan_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Salyan"/>
+                <field name="name">Bangad Kupinde</field>
+                <field name="code">60O</field>
+        </record>
+        <record id="res_country_municipality_Salyan_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Salyan"/>
+                <field name="name">Bagchaur</field>
+                <field name="code">60N</field>
+        </record>
+        <!-- dist61 -->
+        <record id="res_country_municipality_Surkhet" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Surkhet"/>
+                <field name="name">Gurbhakot</field>
+                <field name="code">61P</field>
+        </record>
+        <record id="res_country_municipality_Surkhet_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Surkhet"/>
+                <field name="name">Panchpuri</field>
+                <field name="code">61O</field>
+        </record>
+        <record id="res_country_municipality_Surkhet_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Surkhet"/>
+                <field name="name">Bheriganga</field>
+                <field name="code">61N</field>
+        </record>
+        <record id="res_country_municipality_Surkhet_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Surkhet"/>
+                <field name="name">Lekbeshi</field>
+                <field name="code">61M</field>
+        </record>
+        <record id="res_country_municipality_Surkhet_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Surkhet"/>
+                <field name="name">Lekbeshi</field>
+                <field name="code">61L</field>
+        </record>
+        <!-- dist62 -->
+        <record id="res_country_municipality_Bajura" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bajura"/>
+                <field name="name">Gurbhakot</field>
+                <field name="code">62P</field>
+        </record>
+        <record id="res_country_municipality_Bajura_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bajura"/>
+                <field name="name">Panchpuri</field>
+                <field name="code">62O</field>
+        </record>
+        <record id="res_country_municipality_Bajura_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bajura"/>
+                <field name="name">Bheriganga</field>
+                <field name="code">62N</field>
+        </record>
+        <record id="res_country_municipality_Bajura_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bajura"/>
+                <field name="name">Lekbeshi</field>
+                <field name="code">62M</field>
+        </record>
+        <!-- dist63 -->
+        <record id="res_country_municipality_Bajura" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bajura"/>
+                <field name="name">JayaPrithivi</field>
+                <field name="code">63P</field>
+        </record>
+        <record id="res_country_municipality_Bajura_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Bajura"/>
+                <field name="name">Bungal</field>
+                <field name="code">63O</field>
+        </record>
+        <!-- dist64 -->
+        <record id="res_country_municipality_Darchula" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Darchula"/>
+                <field name="name">Mahakali</field>
+                <field name="code">64P</field>
+        </record>
+        <record id="res_country_municipality_Darchula_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Darchula"/>
+                <field name="name">Shailyashikhar</field>
+                <field name="code">64O</field>
+        </record>
+        <!-- dist65 -->
+         <record id="res_country_municipality_Baitadi" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baitadi"/>
+                <field name="name">Melauli</field>
+                <field name="code">65P</field>
+        </record>
+        <record id="res_country_municipality_Baitadi_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baitadi"/>
+                <field name="name">Dasharathchanda</field>
+                <field name="code">65O</field>
+        </record>
+        <record id="res_country_municipality_Baitadi_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baitadi"/>
+                <field name="name">Purchaudi</field>
+                <field name="code">65N</field>
+        </record>
+        <record id="res_country_municipality_Baitadi_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Baitadi"/>
+                <field name="name">Patan</field>
+                <field name="code">65M</field>
+        </record>
+        <!-- dist66 -->
+        <record id="res_country_municipality_Dadeldhura" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dadeldhura"/>
+                <field name="name">Amargadhi</field>
+                <field name="code">66P</field>
+        </record>
+        <record id="res_country_municipality_Dadeldhura_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Dadeldhura"/>
+                <field name="name">Parashuram</field>
+                <field name="code">66O</field>
+        </record>
+        <!-- dist67 -->
+        <record id="res_country_municipality_Doti" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Doti"/>
+                <field name="name">Dipayal Silgad</field>
+                <field name="code">67P</field>
+        </record>
+        <record id="res_country_municipality_Doti_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Doti"/>
+                <field name="name">Shikhar</field>
+                <field name="code">67O</field>
+        </record>
+        <!-- dist68 -->
+        <record id="res_country_municipality_Achham" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Achham"/>
+                <field name="name">Sanphebagar</field>
+                <field name="code">68P</field>
+        </record>
+        <record id="res_country_municipality_Achham_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Achham"/>
+                <field name="name">Mangalsen</field>
+                <field name="code">68O</field>
+        </record>
+        <record id="res_country_municipality_Achham_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Achham"/>
+                <field name="name">Kamalbazar</field>
+                <field name="code">68N</field>
+        </record>
+        <record id="res_country_municipality_Achham_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Achham"/>
+                <field name="name">Panchadewal Binayak</field>
+                <field name="code">68M</field>
+        </record>
+        <!-- dist69 -->
+        <record id="res_country_municipality_Kailali" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Tikapur</field>
+                <field name="code">69P</field>
+        </record>
+        <record id="res_country_municipality_Kailali_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Ghodaghodi</field>
+                <field name="code">69O</field>
+        </record>
+        <record id="res_country_municipality_Kailali_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Bhajani</field>
+                <field name="code">69N</field>
+        </record>
+        <record id="res_country_municipality_Kailali_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Dhangadhi Sub-Metropolitian City</field>
+                <field name="code">69M</field>
+        </record>
+        <record id="res_country_municipality_Kailali_4" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Gauriganga</field>
+                <field name="code">69L</field>
+        </record>
+        <record id="res_country_municipality_Kailali_5" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Lamkichuha</field>
+                <field name="code">69K</field>
+        </record>
+        <record id="res_country_municipality_Kailali_6" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kailali"/>
+                <field name="name">Lamkichuha</field>
+                <field name="code">69J</field>
+        </record>
+        <!-- dist70 -->
+        <record id="res_country_municipality_Kanchanpur" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kanchanpur"/>
+                <field name="name">Punarbas</field>
+                <field name="code">70P</field>
+        </record>
+        <record id="res_country_municipality_Kanchanpur_1" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kanchanpur"/>
+                <field name="name">Krishnapur</field>
+                <field name="code">70O</field>
+        </record>
+        <record id="res_country_municipality_Kanchanpur_2" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kanchanpur"/>
+                <field name="name">Mahakali </field>
+                <field name="code">70N</field>
+        </record>
+        <record id="res_country_municipality_Kanchanpur_3" model="res.country.municipality">
+                <field name="district_id" ref="res_country_district_Kanchanpur"/>
+                <field name="name">Bedkot</field>
+                <field name="code">70M</field>
+        </record>
+        <!-- dist71 -->
+        <record id="res_country_municipality_Nawalpur_Bardaghat" model="res.country.municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Bardaghat Municipality</field>
+            <field name="code">71</field>
+         </record>
+        <record id="res_country_municipality_Nawalpur_Sunwal" model="res.country.municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Sunwal Municipality</field>
+            <field name="code">71A</field>
+         </record>
+        <record id="res_country_municipality_Nawalpur_Ramgram" model="res.country.municipality">
+            <field name="district_id" ref="res_country_district_Nawalparasi_West"/>
+            <field name="name">Ramgram Municipality</field>
+            <field name="code">71B</field>
+         </record>
+
+</odoo>

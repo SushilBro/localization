@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  Copyright 2021  (https://www.nepalgov.com/list-of-municipalities-and-rural-municipalities-english/)
+  @author: Sushil Gautam <sushilgautam.com.np>
+-->
+<odoo noupdate="1">
+                <!-- Districts in Provinence no 1 -->
+    
+        <record id="res_country_district_Bhojpur" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Bhojpur</field>
+            <field name="code">1</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Dhankuta" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Dhankuta</field>
+            <field name="code">2</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Ilam" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Ilam</field>
+            <field name="code">3</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Jhapa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Jhapa</field>
+            <field name="code">4</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Khotang" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Khotang</field>
+            <field name="code">5</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Morang" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Morang</field>
+            <field name="code">6</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Okhaldhunga" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Okhaldhunga</field>
+            <field name="code">7</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Panchthar" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Panchthar</field>
+            <field name="code">8</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Sankhuwasabha" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Sankhuwasabha</field>
+            <field name="code">9</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Solukhumbu" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Solukhumbu</field>
+            <field name="code">10</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Sunsari" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Sunsari</field>
+            <field name="code">11</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Taplejung" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Taplejung</field>
+            <field name="code">12</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Terhathum" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Terhathum</field>
+            <field name="code">13</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Udayapur" model="res.country.district">
+            <field name="state_id" ref="res_country_state_arun"/>
+            <field name="name">Udayapur</field>
+            <field name="code">14</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+
+        <!--******************* Districts in Provinence no 2 *********************-->
+
+        <record id="res_country_district_Bara" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Bara</field>
+            <field name="code">15</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+
+        <record id="res_country_district_Dhanusa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Dhanusa</field>
+            <field name="code">16</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Mahottari" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Mahottari</field>
+            <field name="code">17</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Parsa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Parsa</field>
+            <field name="code">18</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Rautahat" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Rautahat</field>
+            <field name="code">19</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Saptari" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Saptari</field>
+            <field name="code">20</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+        <record id="res_country_district_Sarlahi" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Sarlahi</field>
+            <field name="code">21</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+            
+        </record>
+
+        <record id="res_country_district_Siraha" model="res.country.district">
+            <field name="state_id" ref="res_country_state_janakpur"/>
+            <field name="name">Siraha</field>
+            <field name="code">22</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+   
+
+   <!--******************* Districts in Bagmati Province *********************-->
+
+    <record id="res_country_district_Bhaktapur" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Bhaktapur </field>
+            <field name="code">23</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    <record id="res_country_district_Chitwan" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Chitwan </field>
+            <field name="code">24</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Dhading" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Dhading </field>
+            <field name="code">25</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Dolakha" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Dolakha </field>
+            <field name="code">26</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Kathmandu" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Kathmandu </field>
+            <field name="code">27</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Kavrepalanchok" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Kavrepalanchok </field>
+            <field name="code">28</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Lalitpur" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Lalitpur </field>
+            <field name="code">29</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Makawanpur" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Makawanpur </field>
+            <field name="code">30</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Nuwakot" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Nuwakot</field>
+            <field name="code">31</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Ramechhap" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Ramechhap</field>
+            <field name="code">32</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Rasuwa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Rasuwa</field>
+            <field name="code">33</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Sindhuli" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Sindhuli</field>
+            <field name="code">34</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+    
+    <record id="res_country_district_Sindhupalchok" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kathmandu"/>
+            <field name="name">Sindhupalchok </field>
+            <field name="code">35</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+        </record>
+
+    <!--******************* Districts in Gandaki Province *********************-->
+   
+    <record id="res_country_district_Baglung" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Baglung</field>
+            <field name="code">36</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Gorkha" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Gorkha</field>
+            <field name="code">37</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Kaski" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Kaski</field>
+            <field name="code">38</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Lamjung" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Lamjung</field>
+            <field name="code">39</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Manang" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Manang</field>
+            <field name="code">40</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Mustang" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Mustang</field>
+            <field name="code">41</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Myagdi" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Myagdi</field>
+            <field name="code">42</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Nawalparasi_East" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Nawalparasi East</field>
+            <field name="code">43</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Parbat" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Parbat</field>
+            <field name="code">44</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Syangja" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Syangja</field>
+            <field name="code">45</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+     <record id="res_country_district_Tanahu" model="res.country.district">
+            <field name="state_id" ref="res_country_state_gandaki"/>
+            <field name="name">Tanahu </field>
+            <field name="code">46</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <!--******************* Districts in Lumbini Province *********************-->
+   
+    <record id="res_country_district_Arghakhanchi" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Arghakhanchi</field>
+            <field name="code">47</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Banke" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Banke</field>
+            <field name="code">48</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Bardiya" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Bardiya</field>
+            <field name="code">49</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Dang" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Dang</field>
+            <field name="code">50</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Gulmi" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Gulmi</field>
+            <field name="code">51</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Kapilvastu" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Kapilvastu</field>
+            <field name="code">52</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Nawalparasi_West" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Nawalparasi West</field>
+            <field name="code">53</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Palpa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Palpa</field>
+            <field name="code">54</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Pyuthan" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Pyuthan</field>
+            <field name="code">55</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Rolpa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Rolpa</field>
+            <field name="code">56</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Rukum_East" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Rukum East</field>
+            <field name="code">57</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Rupandehi" model="res.country.district">
+            <field name="state_id" ref="res_country_state_kapilavastu"/>
+            <field name="name">Rupandehi</field>
+            <field name="code">58</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <!--******************* Districts in Karnali Province *********************-->
+   
+    <record id="res_country_district_Salyan" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Salyan</field>
+            <field name="code">59</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Surkhet" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Surkhet</field>
+            <field name="code">60</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Dailekh" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Dailekh</field>
+            <field name="code">61</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Jajarkot" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Jajarkot</field>
+            <field name="code">62</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Dolpa" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Dolpa</field>
+            <field name="code">63</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Jumla" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Jumla</field>
+            <field name="code">64</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Kalikot" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Kalikot</field>
+            <field name="code">65</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Mugu" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Mugu</field>
+            <field name="code">66</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Humla" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Humla</field>
+            <field name="code">67</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Rukum_West" model="res.country.district">
+            <field name="state_id" ref="res_country_state_karnali"/>
+            <field name="name">Rukum West</field>
+            <field name="code">68</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+
+    <!--******************* Districts in Sudur-Paschim Province *********************-->
+   
+    <record id="res_country_district_Bajura" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Bajura</field>
+            <field name="code">69</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+
+    <record id="res_country_district_Bajhang" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Bajhang</field>
+            <field name="code">70</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Achham" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Achham</field>
+            <field name="code">71</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Doti" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Doti</field>
+            <field name="code">72</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Kailali" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Kailali</field>
+            <field name="code">73</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Kanchanpur" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Kanchanpur</field>
+            <field name="code">74</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Dadeldhura" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Dadeldhura</field>
+            <field name="code">75</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Baitadi" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Baitadi</field>
+            <field name="code">76</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+    <record id="res_country_district_Darchula" model="res.country.district">
+            <field name="state_id" ref="res_country_state_mahakali"/>
+            <field name="name">Darchula</field>
+            <field name="code">77</field>
+            <!-- <field name="country_id" ref="base.np" /> -->
+    </record>
+</odoo>
